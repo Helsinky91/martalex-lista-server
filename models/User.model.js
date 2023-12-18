@@ -26,6 +26,10 @@ const userSchema = new Schema(
         ref: "Cosplay",
       },
     ],
+    role: {
+      type: String,
+      default: "user",
+    },
   },
   {
     // this second object adds extra properties: `createdAt` and `updatedAt`    
