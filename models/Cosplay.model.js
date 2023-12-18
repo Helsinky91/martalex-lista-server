@@ -1,6 +1,5 @@
 const { Schema, model } = require("mongoose");
 const family = require("../utils/family");
-const alergies = require("../utils/alergies");
 
 const CosplaySchema = new Schema({
     name: {
@@ -18,12 +17,6 @@ const CosplaySchema = new Schema({
             type: String,
             enum: family,
         },
-    ],
-    alergies: [
-        {
-            type: String,
-            enum: alergies,
-        }
     ],
     description: String,
     choosedBy: {
