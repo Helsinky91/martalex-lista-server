@@ -1,6 +1,7 @@
 const Cosplay = require("../models/Cosplay.model");
 const router = require("express").Router();
 const family = require("../utils/family");
+const isLogged = require("../middlewares/auth");
 
 //GET "api/cosplay/cosplay-list" --> shows a list of all cosplays
 router.get("/cosplay-list", async (req, res, next) => {
