@@ -26,7 +26,7 @@ router.get("/family", async (req, res, next) =>  {
 
 //POST "api/cosplay/create-cosplay" --> create new cosplay (receives details from new cosplay in FE and creates new cosplay in DB)
 router.post("/create-cosplay", async (req, res, next) => {
-    const {name, image, family, description, choosenBy, link1, link2 } = req.body;
+    const {name, image, family, description, choosedBy, link1, link2 } = req.body;
 
     //get data from FE to send BE
     const newCosplay = {
@@ -34,7 +34,7 @@ router.post("/create-cosplay", async (req, res, next) => {
         image,
         // family,
         description: description,
-        // choosenBy: _id,
+        // choosedBy: _id,
         link1,
         link2,
     };
@@ -55,7 +55,7 @@ router.get("/:cosplayId/details", async (req, res, next) => {
     const { cosplayId } = req.params;
   
     try {
-      const response = await Cosplay.findById(cosplayId).populate("choosenBy");
+      const response = await Cosplay.findById(cosplayId).populate("choosedBy");
       res.status(200).json(response);
     } catch (error) {
       next(error);
@@ -69,7 +69,7 @@ router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
   
     try {
       await Cosplay.findByIdAndUpdate(req.params.cosplayId, {
-        $addToSet: { choosenBy: userId }
+        $addToSet: { choosedBy: userId }
       });
   
       res.status(200).json({ message: "Cosplay added to profile successfully" });
