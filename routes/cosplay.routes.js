@@ -55,7 +55,7 @@ router.get("/:cosplayId/details", async (req, res, next) => {
     const { cosplayId } = req.params;
   
     try {
-      const response = await Cosplay.findById(cosplayId)//.populate("choosenBy");
+      const response = await Cosplay.findById(cosplayId).populate("choosenBy");
       res.status(200).json(response);
     } catch (error) {
       next(error);
@@ -79,6 +79,7 @@ router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
   });
 
 
+//! FALTA UN-CHOOSE COSPLAY ROUTE
 
 
 module.exports = router;
