@@ -1,3 +1,4 @@
+// isLogged middleware
 const { expressjwt: jwt } = require("express-jwt");
 
 const isLogged = jwt({
@@ -5,7 +6,10 @@ const isLogged = jwt({
   algorithms: ["HS256"],
   requestProperty: "payload",
   getToken: (req) => {
-    if (req.headers === undefined || req.headers.authorization === undefined) {
+    if (
+      req.headers === undefined ||
+      req.headers.authorization === undefined
+    ) {
       return null;
     }
     const tokenArr = req.headers.authorization.split(" ");

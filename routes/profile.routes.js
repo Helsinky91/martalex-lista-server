@@ -1,6 +1,7 @@
 const router = require("express").Router();
 const alergies = require("../utils/alergies");
 const attendance = require("../utils/attendance");
+const User = require("../models/User.model");
 
 //! ONLY ROLE = ADMIN
 //GET "/api/profile/list" --> show filtered profile list
@@ -40,6 +41,11 @@ router.get("/:userId/details", async (req, res, next) => {
   });
 
 //! add-cosplay with code line 86 > profile.routes.js Watcha-cooking.
+
+
+
+
+
 
 
 //! PROFILE EDIT

@@ -4,6 +4,7 @@ const alergies = require("../utils/alergies");
 
 const userSchema = new Schema(
   {
+    name: String,
     email: {
       type: String,
       required: [true, 'Email is required.'],
@@ -24,12 +25,25 @@ const userSchema = new Schema(
         //feeds from Cosplay.model
         type: Schema.Types.ObjectId,
         ref: "Cosplay",
+        default: null,
       },
     ],
     role: {
       type: String,
       default: "user",
     },
+    attendance: [
+      {
+          type: String,
+          enum: attendance,
+      },
+      ],
+      alergies: [
+        {
+            type: String,
+            enum: alergies,
+        },
+    ],
   },
   {
     // this second object adds extra properties: `createdAt` and `updatedAt`    

@@ -7,3 +7,5 @@ const family = [
     "Salior Moon",
     "Dr Slum", //Arale?
 ]
+
+module.exports = family;

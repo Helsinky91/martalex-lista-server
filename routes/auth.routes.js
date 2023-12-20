@@ -15,15 +15,15 @@ router.post("/signup", async (req, res, next) => {
     return;
   }
 
-  // check the password strength
-  const passwordRegex = /^(?=.*\d)(?=.*[a-z]).{6,}$/gm;
-  if (passwordRegex.test(password) === false) {
-    res.status(400).json({
-      errorMessage:
-        "La contraseña tiene que tener almenos 6 caracteres, con al menos un número",
-    });
-    return;
-  }
+  // // check the password strength
+  // const passwordRegex = /^(?=.*\d)(?=.*[a-z]).{6,}$/gm;
+  // if (passwordRegex.test(password) === false) {
+  //   res.status(400).json({
+  //     errorMessage:
+  //       "La contraseña tiene que tener almenos 6 caracteres, con al menos un número",
+  //   });
+  //   return;
+  // }
 
   // check the email structure
   if (!email.includes("@")) {
@@ -107,6 +107,7 @@ router.post("/login", async (req, res, next) => {
 
 // GET "/api/auth/verify" -> send to FE if the user is already validate
 router.get("/verify", isLogged, (req, res, next) => {
+  console.log("Reached /auth/verify route");
   res.status(200).json(req.payload);
 });
 

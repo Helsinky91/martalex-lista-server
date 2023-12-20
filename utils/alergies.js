@@ -6,7 +6,9 @@ const alergies = [
     "Marisco",
     "Sulfitos",
     "Otros",
-
+    "No tengo"
     //Huevo, Pescado, Mostaza
 
 ]
+
+module.exports = alergies;

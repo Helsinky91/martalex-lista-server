@@ -3,6 +3,9 @@ const router = require("express").Router();
 const family = require("../utils/family");
 const isLogged = require("../middlewares/auth");
 
+//! cosplay-family --> to show by grouping ?
+
+
 //GET "api/cosplay/cosplay-list" --> shows a list of all cosplays
 router.get("/cosplay-list", async (req, res, next) => {
     try {
@@ -60,9 +63,20 @@ router.get("/:cosplayId/details", async (req, res, next) => {
   });
 
 
-
-//* cosplay-family --> to show by grouping ?
-
+// PATCH "/api/cosplay/:cosplayId/choose-cosplay" --> adds one cosplay to your profile
+router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
+    const { userId } = req.payload;
+  
+    try {
+      await Cosplay.findByIdAndUpdate(req.params.cosplayId, {
+        $addToSet: { choosenBy: userId }
+      });
+  
+      res.status(200).json({ message: "Cosplay added to profile successfully" });
+    } catch (err) {
+      next(err);
+    }
+  });
 
 
 
