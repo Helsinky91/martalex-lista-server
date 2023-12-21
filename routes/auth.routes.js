@@ -6,11 +6,11 @@ const isLogged = require("../middlewares/auth");
 
 // Authentication routes
 
-// POST "/api/auth/signup" -> User registration with username, email and password
+// POST "/api/auth/signup" -> User registration with name, email and password
 router.post("/signup", async (req, res, next) => {
-  const { username, email, password } = req.body;
+  const { name, email, password, alergies, attendance } = req.body;
 
-  if (!username || !email || !password) {
+  if (!name || !email || !password || !alergies) {
     res.status(400).json({ errorMessage: "Debes rellenar todos los campos" });
     return;
   }
@@ -48,9 +48,11 @@ router.post("/signup", async (req, res, next) => {
     const hashPassword = await bcrypt.hash(password, salt);
 
     const newUser = {
-      username: username,
+      name: name,
       email: email,
       password: hashPassword,
+      attendance: attendance, 
+      alergies: alergies,
     };
 
     // create new user and send OK message to FE
@@ -88,10 +90,11 @@ router.post("/login", async (req, res, next) => {
     // info of the user stored in the Token
     const payload = {
       _id: foundUser._id,
-      username: foundUser.username,
+      name: foundUser.name,
       email: foundUser.email,
       role: foundUser.role,
-      tag: foundUser.tag,
+      attendance: foundUser.attendance, 
+      alergies: foundUser.alergies,
     };
 
     const authToken = jwt.sign(payload, process.env.TOKEN_SECRET, {
