@@ -43,14 +43,11 @@ router.get("/:userId/details", async (req, res, next) => {
 //! PROFILE DELETE
 
 
-//GET "/api/profile/alergies" --> shows alergies in profile
-router.get("/alergies", async (req, res, next) => {
-    res.status(200).json(alergies);
-});
 
-//GET "/api/profile/attendance" --> shows attendance in profile
-router.get("/attendance", async (req, res, next) => {
-    res.status(200).json(attendance);
-});
+
+// //GET "/api/profile/attendance" --> shows attendance in profile
+// router.get("/attendance", async (req, res, next) => {
+//     res.status(200).json(attendance);
+// });
 
 module.exports = router;
