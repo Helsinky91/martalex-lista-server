@@ -66,7 +66,6 @@ router.get("/:cosplayId/details", async (req, res, next) => {
 // PATCH "/api/cosplay/:cosplayId/choose-cosplay" --> adds one cosplay to your profile
 router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
     const { userId } = req.payload;
-  
     try {
       await Cosplay.findByIdAndUpdate(req.params.cosplayId, {
         $addToSet: { choosedBy: userId }

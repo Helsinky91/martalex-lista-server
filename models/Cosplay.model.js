@@ -1,5 +1,5 @@
 const { Schema, model } = require("mongoose");
-const family = require("../utils/family");
+// const family = require("../utils/family");
 
 const CosplaySchema = new Schema({
     name: {
@@ -14,8 +14,8 @@ const CosplaySchema = new Schema({
     family: [
         {
             //! check how to filter this ???
-            type: String,
-            enum: family,
+            type: Schema.Types.ObjectId,
+            enum: "Family",
         },
     ],
     description: String,
@@ -23,6 +23,7 @@ const CosplaySchema = new Schema({
         //feeds from User.model
         type: Schema.Types.ObjectId,
         ref: "User",
+        default: null,
     },
     link1: String, //youtube
     link2: String, //aliexpress

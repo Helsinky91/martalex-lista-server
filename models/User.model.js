@@ -37,13 +37,12 @@ const userSchema = new Schema(
           type: String,
           enum: attendance,
       },
-      ],
-      alergies: [
-        {
-            type: String,
-            enum: alergies,
-        },
     ],
+    alergies: 
+    {
+      type: String,
+      required: [true, 'Si no tienes alergias escribe NO']
+    },
   },
   {
     // this second object adds extra properties: `createdAt` and `updatedAt`    
