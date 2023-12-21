@@ -11,7 +11,7 @@ router.use("/auth", authRoutes);
 
 //set up for cosplay.routes.js to start "/cosplay/..."
 const cosplayRoutes = require("./cosplay.routes");
-router.use("/cosplay", isLogged , cosplayRoutes);
+router.use("/cosplay", cosplayRoutes);   //! añadir el isLogged here
 
 
 //set up for profile.routes.js to start "/profile/..."
