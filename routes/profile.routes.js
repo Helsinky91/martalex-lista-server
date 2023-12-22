@@ -1,5 +1,4 @@
 const router = require("express").Router();
-const alergies = require("../utils/alergies");
 const attendance = require("../utils/attendance");
 const User = require("../models/User.model");
 
