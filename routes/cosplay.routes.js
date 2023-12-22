@@ -19,7 +19,7 @@ router.get("/:cosplayId/details", async (req, res, next) => {
   
     try {
       const response = await Cosplay.findById(cosplayId)//.populate("choosedBy");
-    //   console.log("cosplay details route: ", response)
+      console.log("cosplay details route: ", response)
       res.status(200).json(response);
     } catch (error) {
       next(error);
