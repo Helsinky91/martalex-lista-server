@@ -1,10 +1,9 @@
 [{
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a42"
+    "ObjectId": "6584586e5e8d968e3a8d0a42"
   },
   "name": "Anakin Skywalker",
   "nameDetails": "Jedi",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/e9/90/80/e9908018356bf2dac081234824a480fe.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Anakin Skywalker+Star Wars",
   "descriptionCat": "",
@@ -17,11 +16,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a43"
+    "ObjectId": "6584586e5e8d968e3a8d0a43"
   },
   "name": "Darth Maul",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/3a/bb/1b/3abb1bba9a02cc88724e4efe1f0694eb.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Darth Maul +Star Wars",
   "descriptionCat": "",
@@ -34,11 +32,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a44"
+    "ObjectId": "6584586e5e8d968e3a8d0a44"
   },
   "name": "Darth Vader",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/13/76/80/1376809e0eb47f6b3eaa6f60f3caad56.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Darth Vader+Star Wars",
   "descriptionCat": "",
@@ -51,11 +48,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a45"
+    "ObjectId": "6584586e5e8d968e3a8d0a45"
   },
   "name": "Luke Skywalker",
   "nameDetails": "Joven",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/e9/a7/16/e9a716a8d14b67bbdcdeb9334c76b0cd.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Luke Skywalker+Star Wars",
   "descriptionCat": "",
@@ -68,11 +64,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a46"
+    "ObjectId": "6584586e5e8d968e3a8d0a46"
   },
   "name": "Boba Fett",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/fc/3c/34/fc3c348960515322c26cc3434c342375.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Boba Fett+Star Wars",
   "descriptionCat": "",
@@ -85,11 +80,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a47"
+    "ObjectId": "6584586e5e8d968e3a8d0a47"
   },
   "name": "Stormtrooper",
   "nameDetails": "Soldado de Asalto - trilogia original",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/a3/05/16/a305160aa110544ae8a6b52cc67f73ee.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Stormtrooper+Star Wars",
   "descriptionCat": "",
@@ -102,11 +96,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a48"
+    "ObjectId": "6584586e5e8d968e3a8d0a48"
   },
   "name": "The Mandalorian",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/3e/ad/7a/3ead7ad80f18f7878d681fc1e09d885d.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+The Mandalorian+Star Wars",
   "descriptionCat": "",
@@ -119,11 +112,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a49"
+    "ObjectId": "6584586e5e8d968e3a8d0a49"
   },
   "name": "Almirante imperial",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/39/17/86/3917867e34babc2037d13097d8b683e3.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Almirante imperial+Star Wars",
   "descriptionCat": "",
@@ -136,11 +128,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a4a"
+    "ObjectId": "6584586e5e8d968e3a8d0a4a"
   },
   "name": "Princesa Leia",
   "nameDetails": "Joven",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/ac/6f/10/ac6f102177b2ea8a5a2cfcf3f7d3c444.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Princesa Leia+Star Wars",
   "descriptionCat": "",
@@ -153,11 +144,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a4b"
+    "ObjectId": "6584586e5e8d968e3a8d0a4b"
   },
   "name": "Reina Amidala",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/ae/76/50/ae765044332f485a2ab5d1327bb7eafd.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Reina Amidala+Star Wars",
   "descriptionCat": "",
@@ -170,11 +160,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a4c"
+    "ObjectId": "6584586e5e8d968e3a8d0a4c"
   },
   "name": "Harry Potter",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/4d/42/38/4d4238f5567b3418e17fa55d80923c6a.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Harry Potter+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Harry_Potter_(personatge)",
@@ -187,11 +176,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a4d"
+    "ObjectId": "6584586e5e8d968e3a8d0a4d"
   },
   "name": "Ron Wasley",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/62/9b/dd/629bddaf460302a6685a2dc8a0a5abdc.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ron Wasley+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Ronald_Weasley",
@@ -204,11 +192,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a4e"
+    "ObjectId": "6584586e5e8d968e3a8d0a4e"
   },
   "name": "Severus Snape",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/e0/a1/13/e0a113b2dda24a1425f97414543d65bd.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Severus Snape+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Severus_Snape",
@@ -221,11 +208,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a4f"
+    "ObjectId": "6584586e5e8d968e3a8d0a4f"
   },
   "name": "Rubeus Hagrid",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/05/fe/d8/05fed840c0ba911d4c4b021fd1cca642.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Rubeus Hagrid+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Rubeus_Hagrid",
@@ -238,11 +224,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a50"
+    "ObjectId": "6584586e5e8d968e3a8d0a50"
   },
   "name": "Draco Malfoy",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/0d/0a/6d/0d0a6d096f8c98c30dd62137345e8c72.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Draco Malfoy+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Draco_Malfoy",
@@ -255,11 +240,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a51"
+    "ObjectId": "6584586e5e8d968e3a8d0a51"
   },
   "name": "Voldemort",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/74/f2/00/74f200f43f9a6a4f05104140831212da.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Voldemort+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Lord_Voldemort",
@@ -272,11 +256,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a52"
+    "ObjectId": "6584586e5e8d968e3a8d0a52"
   },
   "name": "Dobby",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/9f/f6/46/9ff64691cd681e05e968ead51df89759.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dobby+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Elf_dom%C3%A8stic#Dobby",
@@ -289,11 +272,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a53"
+    "ObjectId": "6584586e5e8d968e3a8d0a53"
   },
   "name": "Sirius Black",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/db/0f/c8/db0fc8e99615586853c9ffb760f23b7f.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sirius Black+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Sirius_Black",
@@ -306,11 +288,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a54"
+    "ObjectId": "6584586e5e8d968e3a8d0a54"
   },
   "name": "Alastor Moody",
   "nameDetails": "Ull-Foll Murri / Ojo-Loco Moody",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/8f/6d/c2/8f6dc2e6bb8af315764e33e5c3533320.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Alastor Moody+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Alastor_Ull-foll_Murri",
@@ -323,11 +304,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a55"
+    "ObjectId": "6584586e5e8d968e3a8d0a55"
   },
   "name": "Hermione Granger",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/da/a6/93/daa693b50741dce67bfbaa8533be315f.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Hermione Granger +Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Hermione_Granger",
@@ -340,11 +320,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a56"
+    "ObjectId": "6584586e5e8d968e3a8d0a56"
   },
   "name": "Luna Lovegood",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/b2/91/1b/b2911b2ddf45fd4bb71576a620989895.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Luna Lovegood+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Luna_Lovegood",
@@ -357,11 +336,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a57"
+    "ObjectId": "6584586e5e8d968e3a8d0a57"
   },
   "name": "Dolors Umbridge",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/0b/dd/fa/0bddfa83a101d5d85c659c46ef3ea1ad.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dolors Umbridge+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Personal_de_Hogwarts#Dolors_Umbridge",
@@ -374,11 +352,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a58"
+    "ObjectId": "6584586e5e8d968e3a8d0a58"
   },
   "name": "Minerva McGonagall",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/dc/a9/b8/dca9b82aee63f9b36efb01914cdbae12.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Minerva McGonagall+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Minerva_McGonagall",
@@ -391,11 +368,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a59"
+    "ObjectId": "6584586e5e8d968e3a8d0a59"
   },
   "name": "Bel·latrix",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/4d/05/2a/4d052a338b25e17ffa4a021927be5a03.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bel·latrix+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Cavaller_de_la_mort#Bel·latrix_Lestrange",
@@ -408,11 +384,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a5a"
+    "ObjectId": "6584586e5e8d968e3a8d0a5a"
   },
   "name": "Sybil·la Threlawney",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/04/f4/67/04f4677ffa3a1ac0315b6eb2c86f216d.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sybil·la Threlawney+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Personal_de_Hogwarts#Sibil%C2%B7la_Trelawney",
@@ -425,11 +400,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a5b"
+    "ObjectId": "6584586e5e8d968e3a8d0a5b"
   },
   "name": "Fleur Delacoeur",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/cf/1e/61/cf1e61c7bdf34763009abaeefa3b1bfb.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Fleur Delacoeur+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Fam%C3%ADlia_Weasley#Fleur_Delacour",
@@ -442,11 +416,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a5c"
+    "ObjectId": "6584586e5e8d968e3a8d0a5c"
   },
   "name": "Rita Skeeter",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/8a/9d/ca/8a9dcaf8c37c308edd935f5328f696b0.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Rita Skeeter+Harry Potter",
   "descriptionCat": "",
@@ -459,11 +432,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a5d"
+    "ObjectId": "6584586e5e8d968e3a8d0a5d"
   },
   "name": "Aragorn",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/a1/58/69/a15869838f2113039792353a903461f0.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Aragorn+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Aragorn",
@@ -476,11 +448,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a5e"
+    "ObjectId": "6584586e5e8d968e3a8d0a5e"
   },
   "name": "Legolas",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/77/c1/eb/77c1eb3de7efd13cdbecfaae7f0542cd.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Legolas+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Legolas",
@@ -493,11 +464,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a5f"
+    "ObjectId": "6584586e5e8d968e3a8d0a5f"
   },
   "name": "Bilbo Bolsón (El señor de los Anillos)",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/2b/23/63/2b2363c5c798566b0aad011d9be22b9b.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bilbo Bolsón (El señor de los Anillos)+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Bilbo_Saquet",
@@ -510,11 +480,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a60"
+    "ObjectId": "6584586e5e8d968e3a8d0a60"
   },
   "name": "Gimli hijo de Gloin",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/55/38/30/5538307192b0fdc62720e7e9be832d0d.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Gimli hijo de Gloin+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Guimli",
@@ -527,11 +496,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a61"
+    "ObjectId": "6584586e5e8d968e3a8d0a61"
   },
   "name": "Elrond de Rivendel",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/81/a6/27/81a6273ca8b1a889cb7fa681b6b45564.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Elrond de Rivendel+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Elrond",
@@ -544,11 +512,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a62"
+    "ObjectId": "6584586e5e8d968e3a8d0a62"
   },
   "name": "Merrin",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/fc/01/1f/fc011f9ab9f3497fe7b980ba3272bad4.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Merrin+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Meriadoc_Brandiboc",
@@ -561,11 +528,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a63"
+    "ObjectId": "6584586e5e8d968e3a8d0a63"
   },
   "name": "Pippin",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/a4/c2/f4/a4c2f4ce9b13c04857ee2e449c7c414e.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pippin+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Peregr%C3%ADn_Tuc",
@@ -578,11 +544,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a64"
+    "ObjectId": "6584586e5e8d968e3a8d0a64"
   },
   "name": "Dama Galadriel",
   "nameDetails": "No de blanco",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/5c/24/0d/5c240d5867bbb9999b9add9585632a48.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dama Galadriel +LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Gal%C3%A0driel",
@@ -595,11 +560,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a65"
+    "ObjectId": "6584586e5e8d968e3a8d0a65"
   },
   "name": "Arwen",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/57/ad/60/57ad60051541a4eb842902b01cbc4239.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Arwen+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Arwen",
@@ -612,11 +576,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a66"
+    "ObjectId": "6584586e5e8d968e3a8d0a66"
   },
   "name": "Naruto Uzumaki",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/9e/c6/e1/9ec6e148fd1a2a3c7a3eb6e4fbee48ba.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Naruto Uzumaki+Naruto",
   "descriptionCat": "https://naruto.fandom.com/ca/wiki/Naruto_Uzumaki",
@@ -629,11 +592,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a67"
+    "ObjectId": "6584586e5e8d968e3a8d0a67"
   },
   "name": "Kakashi Hatake",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/0a/9f/88/0a9f88eade19353f7af76f6819db8c46.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kakashi Hatake+Naruto",
   "descriptionCat": "https://naruto.fandom.com/ca/wiki/Kakashi_Hatake",
@@ -646,11 +608,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a68"
+    "ObjectId": "6584586e5e8d968e3a8d0a68"
   },
   "name": "Rock Lee",
   "nameDetails": "Joven, sin chaleco",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/61/20/84/61208400662eab80d9f9aea6b63a9f3b.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Rock Lee+Naruto",
   "descriptionCat": "",
@@ -663,11 +624,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a69"
+    "ObjectId": "6584586e5e8d968e3a8d0a69"
   },
   "name": "Gaara del Desierto",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/2e/7b/95/2e7b9567df207b7c88f149b5a2a2ed89.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Gaara del Desierto+Naruto",
   "descriptionCat": "",
@@ -680,11 +640,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a6a"
+    "ObjectId": "6584586e5e8d968e3a8d0a6a"
   },
   "name": "Nagato",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/3f/03/1e/3f031eaafe284590bade986867f70553.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Nagato+Naruto",
   "descriptionCat": "",
@@ -697,11 +656,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a6b"
+    "ObjectId": "6584586e5e8d968e3a8d0a6b"
   },
   "name": "Shikamaru",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/1b/25/89/1b2589dbaab00ca5bd11ad41e837a218.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Shikamaru+Naruto",
   "descriptionCat": "",
@@ -714,11 +672,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a6c"
+    "ObjectId": "6584586e5e8d968e3a8d0a6c"
   },
   "name": "Kiba",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/fc/14/a9/fc14a92ff567a869355c16c365aec19c.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kiba+Naruto",
   "descriptionCat": "",
@@ -731,11 +688,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a6d"
+    "ObjectId": "6584586e5e8d968e3a8d0a6d"
   },
   "name": "Itachi",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/b5/db/61/b5db61cb799c85178599af0622d64d16.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Itachi+Naruto",
   "descriptionCat": "",
@@ -748,11 +704,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a6e"
+    "ObjectId": "6584586e5e8d968e3a8d0a6e"
   },
   "name": "Orochimaru",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/39/53/36/395336ede00dab70a0d3572fd1651dc8.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Orochimaru+Naruto",
   "descriptionCat": "",
@@ -765,11 +720,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a6f"
+    "ObjectId": "6584586e5e8d968e3a8d0a6f"
   },
   "name": "Yahiko (Pain)",
   "nameDetails": "Ojos Rinnegan & piercings",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/fc/af/e4/fcafe43d062976e514397463b4edfec0.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Yahiko (Pain)+Naruto",
   "descriptionCat": "",
@@ -782,11 +736,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a70"
+    "ObjectId": "6584586e5e8d968e3a8d0a70"
   },
   "name": "Sasuke Uchiha",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/8f/71/d9/8f71d919090c8c764bec3f41acd34ea2.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sasuke Uchiha+Naruto",
   "descriptionCat": "",
@@ -799,11 +752,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a71"
+    "ObjectId": "6584586e5e8d968e3a8d0a71"
   },
   "name": "Yamato",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/e2/a1/65/e2a16584ec80ad7dde754353364e1558.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Yamato+Naruto",
   "descriptionCat": "",
@@ -816,11 +768,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a72"
+    "ObjectId": "6584586e5e8d968e3a8d0a72"
   },
   "name": "Sakura",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/ad/d9/2c/add92cbbee338f82d5da1486e23bc911.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sakura+Naruto",
   "descriptionCat": "",
@@ -833,11 +784,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a73"
+    "ObjectId": "6584586e5e8d968e3a8d0a73"
   },
   "name": "Hinata",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/4a/de/66/4ade6622f3e06397a5a00d7a9790aedd.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Hinata+Naruto",
   "descriptionCat": "",
@@ -850,11 +800,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a74"
+    "ObjectId": "6584586e5e8d968e3a8d0a74"
   },
   "name": "Temari",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/07/d4/ff/07d4ff56b00aa08d41c40c344caa3c93.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Temari+Naruto",
   "descriptionCat": "",
@@ -867,11 +816,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a75"
+    "ObjectId": "6584586e5e8d968e3a8d0a75"
   },
   "name": "Ino",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/40/ac/0d/40ac0db3cab91d041cac84f57a2ed5f7.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ino+Naruto",
   "descriptionCat": "",
@@ -884,11 +832,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a76"
+    "ObjectId": "6584586e5e8d968e3a8d0a76"
   },
   "name": "Konan",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/15/a0/bc/15a0bc950db3e8132a1021aae765db7c.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Konan+Naruto",
   "descriptionCat": "",
@@ -901,11 +848,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a77"
+    "ObjectId": "6584586e5e8d968e3a8d0a77"
   },
   "name": "Eren",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/d0/7c/44/d07c44f4ae3a774ac7e345908164dae4.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Eren+Shingeku no Kyojin",
   "descriptionCat": "",
@@ -918,11 +864,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a78"
+    "ObjectId": "6584586e5e8d968e3a8d0a78"
   },
   "name": "Armin",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/78/e6/37/78e637e62acf1940c2aa811db6d1a009.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Armin+Shingeku no Kyojin",
   "descriptionCat": "",
@@ -935,11 +880,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a79"
+    "ObjectId": "6584586e5e8d968e3a8d0a79"
   },
   "name": "Levi",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/7e/4a/e6/7e4ae6efc36d87681b298a2889ed0e5c.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Levi+Shingeku no Kyojin",
   "descriptionCat": "",
@@ -952,11 +896,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a7a"
+    "ObjectId": "6584586e5e8d968e3a8d0a7a"
   },
   "name": "Mikasa",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/dc/6b/4b/dc6b4b79e87990c1d832642c9b5e6b49.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mikasa+Shingeku no Kyojin",
   "descriptionCat": "",
@@ -969,11 +912,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a7b"
+    "ObjectId": "6584586e5e8d968e3a8d0a7b"
   },
   "name": "Woody",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/a4/b2/10/a4b210cb0ac14c081aad81bd4b05b08c.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Woody+Toy Story",
   "descriptionCat": "",
@@ -986,11 +928,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a7c"
+    "ObjectId": "6584586e5e8d968e3a8d0a7c"
   },
   "name": "Buzz",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/98/38/43/9838433789ce3361ce08238dd5ca9b80.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Buzz+Toy Story",
   "descriptionCat": "",
@@ -1003,11 +944,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a7d"
+    "ObjectId": "6584586e5e8d968e3a8d0a7d"
   },
   "name": "Ken",
   "nameDetails": "Vestimenta de Toy Story 3",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/10/4a/ec/104aec2f42b52a799ccbbc0d17a21c78.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ken+Toy Story",
   "descriptionCat": "",
@@ -1020,11 +960,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a7e"
+    "ObjectId": "6584586e5e8d968e3a8d0a7e"
   },
   "name": "Jessie",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/66/76/c5/6676c50031c076b29afbb391f13733ff.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Jessie+Toy Story",
   "descriptionCat": "",
@@ -1037,11 +976,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a7f"
+    "ObjectId": "6584586e5e8d968e3a8d0a7f"
   },
   "name": "Barbie",
   "nameDetails": "Vestimenta de Toy Story 3",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/92/11/39/92113960040845a9858bb4e1442339ab.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Barbie+Toy Story",
   "descriptionCat": "",
@@ -1054,11 +992,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a80"
+    "ObjectId": "6584586e5e8d968e3a8d0a80"
   },
   "name": "Miguel",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/17/6e/19/176e199c4ff242f7bb20f3abad7efba3.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Miguel+Coco",
   "descriptionCat": "",
@@ -1071,11 +1008,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a81"
+    "ObjectId": "6584586e5e8d968e3a8d0a81"
   },
   "name": "Ernesto de la Cruz",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/93/2d/a3/932da31f9b2fc39f90621ef7b39442d1.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ernesto de la Cruz+Coco",
   "descriptionCat": "",
@@ -1088,11 +1024,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a82"
+    "ObjectId": "6584586e5e8d968e3a8d0a82"
   },
   "name": "Bert",
   "nameDetails": "(Deshollinador)",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/c5/a1/2e/c5a12e84c4d43a99aa0c547ae3168dc2.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bert+Mary Poppins",
   "descriptionCat": "",
@@ -1105,11 +1040,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a83"
+    "ObjectId": "6584586e5e8d968e3a8d0a83"
   },
   "name": "Mary Poppins",
   "nameDetails": "(de calle)",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/a4/35/14/a43514f9a1228b21529b826e9140af03.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mary Poppins+Mary Poppins",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Mary_Poppins_(personatge)",
@@ -1122,11 +1056,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a84"
+    "ObjectId": "6584586e5e8d968e3a8d0a84"
   },
   "name": "Midori Yamabuki",
   "nameDetails": "(Srta. Yamabuki)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/drslump/images/7/78/Midori1981.jpg/revision/latest?cb=20201214023943",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Midori Yamabuki+Dr Slump",
   "descriptionCat": "",
@@ -1139,11 +1072,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a85"
+    "ObjectId": "6584586e5e8d968e3a8d0a85"
   },
   "name": "Kinoko",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/e7/e8/7c/e7e87cba0629ebb999d1989d67cf9274.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kinoko+Dr Slump",
   "descriptionCat": "",
@@ -1156,11 +1088,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a86"
+    "ObjectId": "6584586e5e8d968e3a8d0a86"
   },
   "name": "Sembei Norimaki",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/59/58/01/595801ada936ce07f97459ed369055b3.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sembei Norimaki+Dr Slump",
   "descriptionCat": "",
@@ -1173,11 +1104,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a87"
+    "ObjectId": "6584586e5e8d968e3a8d0a87"
   },
   "name": "Ash Ketchum",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/espokemon/images/7/71/Anime_Ash.png/revision/latest?cb=20150428172738",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ash Ketchum+Pokémon",
   "descriptionCat": "",
@@ -1190,11 +1120,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a88"
+    "ObjectId": "6584586e5e8d968e3a8d0a88"
   },
   "name": "James (Team Rocket)",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/espokemon/images/8/85/James_%28anime_SL%29.png/revision/latest?cb=20170130161644",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+James (Team Rocket)+Pokémon",
   "descriptionCat": "",
@@ -1207,11 +1136,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a89"
+    "ObjectId": "6584586e5e8d968e3a8d0a89"
   },
   "name": "Brock",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/espokemon/images/2/26/Brock_%28anime_SL%29.png/revision/latest?cb=20170907234839",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Brock+Pokémon",
   "descriptionCat": "",
@@ -1224,11 +1152,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a8a"
+    "ObjectId": "6584586e5e8d968e3a8d0a8a"
   },
   "name": "Misty",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/espokemon/images/a/ac/Misty_%28anime_SL%29.png/revision/latest?cb=20170907234816",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Misty+Pokémon",
   "descriptionCat": "",
@@ -1241,11 +1168,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a8b"
+    "ObjectId": "6584586e5e8d968e3a8d0a8b"
   },
   "name": "Jessie",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/espokemon/images/b/b3/Jessie_%28anime_SL%29.png/revision/latest?cb=20170729001012",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Jessie+Pokémon",
   "descriptionCat": "",
@@ -1258,11 +1184,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a8c"
+    "ObjectId": "6584586e5e8d968e3a8d0a8c"
   },
   "name": "Son Goku",
   "nameDetails": "(normal o superguerrer/super sayan)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Son Goku+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Goku",
@@ -1275,11 +1200,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a8d"
+    "ObjectId": "6584586e5e8d968e3a8d0a8d"
   },
   "name": "Krillin",
   "nameDetails": "Traje Taronja/Naranja",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/dragonball/images/d/d6/Krilin_DBZ_Artwork.png/revision/latest?cb=20170924020117&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Krillin+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Krilin",
@@ -1292,11 +1216,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a8e"
+    "ObjectId": "6584586e5e8d968e3a8d0a8e"
   },
   "name": "Vegeta",
   "nameDetails": "(normal o superguerrer/super sayan)",
-  "attendance": "",
   "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.wikia.com%2Fdragonball%2Fes%2Fimages%2F1%2F1e%2FVegetaInvasor.png&f=1&nofb=1&ipt=21297638d9ad630eeb6837fba236bd40608513881c15c5167e84b0b6d15e037b&ipo=images",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Vegeta+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Vegeta",
@@ -1309,11 +1232,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a8f"
+    "ObjectId": "6584586e5e8d968e3a8d0a8f"
   },
   "name": "Pikkoro",
   "nameDetails": "(Cor Petit/Piccolo)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/dragonball/images/1/19/Piccolo_Fin_DB_Render.png/revision/latest?cb=20161216180851&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pikkoro+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Cor_Petit",
@@ -1326,11 +1248,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a90"
+    "ObjectId": "6584586e5e8d968e3a8d0a90"
   },
   "name": "Yamcha",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/9a/Draft_1-0.png/revision/latest/scale-to-width-down/400?cb=20141016021004",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Yamcha+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Yamcha",
@@ -1343,11 +1264,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a91"
+    "ObjectId": "6584586e5e8d968e3a8d0a91"
   },
   "name": "Trunks",
   "nameDetails": "(Adult, del futur)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/dragonball/images/4/4b/Trunks_del_Futuro_DBZ_Render.png/revision/latest?cb=20171129051437&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Trunks+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Trunks_del_Futur",
@@ -1360,11 +1280,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a92"
+    "ObjectId": "6584586e5e8d968e3a8d0a92"
   },
   "name": "Chichi",
   "nameDetails": "(Xixi)",
-  "attendance": "",
   "image": "https://dragonball.fandom.com/ca/wiki/Xixi?file=Xixi_jove.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Chichi+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Xixi",
@@ -1377,11 +1296,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a93"
+    "ObjectId": "6584586e5e8d968e3a8d0a93"
   },
   "name": "Bulma",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://dragonball.fandom.com/ca/wiki/Bulma?file=Bulma.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bulma+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Bulma",
@@ -1394,11 +1312,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a94"
+    "ObjectId": "6584586e5e8d968e3a8d0a94"
   },
   "name": "Tanjiro Kamado",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5f/Tanjirou_anime_design.png/revision/latest?cb=20190527165749&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Tanjiro Kamado+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1411,11 +1328,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a95"
+    "ObjectId": "6584586e5e8d968e3a8d0a95"
   },
   "name": "Zenitsu",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/66/Zenitsu_anime.png/revision/latest?cb=20190916155039&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Zenitsu+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1428,11 +1344,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a96"
+    "ObjectId": "6584586e5e8d968e3a8d0a96"
   },
   "name": "Inosuke",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Inosuke_anime.png/revision/latest?cb=20181128204238",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Inosuke+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1445,11 +1360,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a97"
+    "ObjectId": "6584586e5e8d968e3a8d0a97"
   },
   "name": "Rengoku",
   "nameDetails": "(Pilar del foc/fuego)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/fd/Kyojuro_anime.png/revision/latest?cb=20190922130202&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Rengoku +Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1462,11 +1376,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a98"
+    "ObjectId": "6584586e5e8d968e3a8d0a98"
   },
   "name": "Tomioka",
   "nameDetails": "(Pilar del vent/viento)",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/26/87/22/2687229818b77d9968d38b19387db61f.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Tomioka +Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1479,11 +1392,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a99"
+    "ObjectId": "6584586e5e8d968e3a8d0a99"
   },
   "name": "Mitsuri Kanroji",
   "nameDetails": "(Pilar de l'amor)",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/b2/6a/49/b26a499ef39249d1e74f18c5da8d04a6.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mitsuri Kanroji+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1496,11 +1408,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a9a"
+    "ObjectId": "6584586e5e8d968e3a8d0a9a"
   },
   "name": "Kanao",
   "nameDetails": "(aprenent insectes/aprendiz insectos)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/cd/Kanao_anime.png/revision/latest/scale-to-width-down/1000?cb=20191028091138",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kanao+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1513,11 +1424,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a9b"
+    "ObjectId": "6584586e5e8d968e3a8d0a9b"
   },
   "name": "Shinobu Kocho",
   "nameDetails": "(Pilar d'insectes/de insectos)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1000?cb=20211119011810",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Shinobu Kocho+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1530,11 +1440,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a9c"
+    "ObjectId": "6584586e5e8d968e3a8d0a9c"
   },
   "name": "Nezuko Kamado",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/71/7f/a9/717fa96bcd318a0d6e9b7445afbbb642.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Nezuko Kamado+Kimetsu no Yaiba",
   "descriptionCat": "",
@@ -1547,11 +1456,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a9d"
+    "ObjectId": "6584586e5e8d968e3a8d0a9d"
   },
   "name": "Red Ranger",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Red Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1564,11 +1472,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a9e"
+    "ObjectId": "6584586e5e8d968e3a8d0a9e"
   },
   "name": "Blue Ranger",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Blue Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1581,11 +1488,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0a9f"
+    "ObjectId": "6584586e5e8d968e3a8d0a9f"
   },
   "name": "Black Ranger",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Black Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1598,11 +1504,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa0"
+    "ObjectId": "6584586e5e8d968e3a8d0aa0"
   },
   "name": "Yellow Ranger",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Yellow Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1615,11 +1520,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa1"
+    "ObjectId": "6584586e5e8d968e3a8d0aa1"
   },
   "name": "Pink Ranger",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pink Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1632,11 +1536,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa2"
+    "ObjectId": "6584586e5e8d968e3a8d0aa2"
   },
   "name": "Ranma",
   "nameDetails": "noia / chica",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/d8/6f/b2/d86fb2fda9161384d5fd960731d529c3.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ranma+Ranma",
   "descriptionCat": "https://ranma.fandom.com/ca/wiki/Ranma_Saotome",
@@ -1649,11 +1552,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa3"
+    "ObjectId": "6584586e5e8d968e3a8d0aa3"
   },
   "name": "Ranma",
   "nameDetails": "noi / chico",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/43/56/49/435649bc91741e12a43fb2f8fd19368e.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ranma+Ranma",
   "descriptionCat": "https://ranma.fandom.com/ca/wiki/Ranma_Saotome",
@@ -1666,11 +1568,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa4"
+    "ObjectId": "6584586e5e8d968e3a8d0aa4"
   },
   "name": "Ryoga",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/91/ba/35/91ba354c86c69c5254c7239cda18a49a.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ryoga+Ranma",
   "descriptionCat": "https://ranma.fandom.com/es/wiki/Ryoga_Hibiki",
@@ -1683,11 +1584,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa5"
+    "ObjectId": "6584586e5e8d968e3a8d0aa5"
   },
   "name": "Mousse",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/6f/19/9f/6f199fb22df2dba32e46e212953a3777.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mousse+Ranma",
   "descriptionCat": "https://ranma.fandom.com/es/wiki/Mousse",
@@ -1700,11 +1600,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa6"
+    "ObjectId": "6584586e5e8d968e3a8d0aa6"
   },
   "name": "Akane",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/28/32/9f/28329fefd4bb1f13d3b56ba87d54abf1.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Akane+Ranma",
   "descriptionCat": "https://ranma.fandom.com/es/wiki/Akane_Tendo",
@@ -1717,11 +1616,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa7"
+    "ObjectId": "6584586e5e8d968e3a8d0aa7"
   },
   "name": "Shampoo",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/05/8e/a4/058ea47fea1088e7ec218379e9f25bb2.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Shampoo+Ranma",
   "descriptionCat": "https://ranma.fandom.com/es/wiki/Shampoo",
@@ -1734,11 +1632,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa8"
+    "ObjectId": "6584586e5e8d968e3a8d0aa8"
   },
   "name": "Fry",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/d4/dd/cb/d4ddcb76147fdba93d30cbfc5d2b5288.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Fry+Futurama",
   "descriptionCat": "",
@@ -1751,11 +1648,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aa9"
+    "ObjectId": "6584586e5e8d968e3a8d0aa9"
   },
   "name": "Profesor Fansworth",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/d8/dd/6e/d8dd6e7f4bd6ba74377e6b7063109040.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Profesor Fansworth+Futurama",
   "descriptionCat": "",
@@ -1768,11 +1664,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aaa"
+    "ObjectId": "6584586e5e8d968e3a8d0aaa"
   },
   "name": "Zoiberg",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/30/78/81/307881b1c0e26e70627e50c8e768da93.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Zoiberg+Futurama",
   "descriptionCat": "",
@@ -1785,11 +1680,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aab"
+    "ObjectId": "6584586e5e8d968e3a8d0aab"
   },
   "name": "Bender",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/f5/8a/ba/f58aba7e82d3a5d486516edd26fd1738.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bender+Futurama",
   "descriptionCat": "",
@@ -1802,11 +1696,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aac"
+    "ObjectId": "6584586e5e8d968e3a8d0aac"
   },
   "name": "Leela",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/33/ce/67/33ce6756e9697516c582fea24a9dc2f0.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Leela+Futurama",
   "descriptionCat": "",
@@ -1819,11 +1712,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aad"
+    "ObjectId": "6584586e5e8d968e3a8d0aad"
   },
   "name": "Cactus",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/57/e8/b5/57e8b5bed765c20f7e8632d5100dbea2.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Cactus+PowerPuff Girls",
   "descriptionCat": "",
@@ -1836,11 +1728,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aae"
+    "ObjectId": "6584586e5e8d968e3a8d0aae"
   },
   "name": "Burbuja",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/33/bc/73/33bc73fe242f97035b76b8ae52f039c0.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Burbuja+PowerPuff Girls",
   "descriptionCat": "",
@@ -1853,11 +1744,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aaf"
+    "ObjectId": "6584586e5e8d968e3a8d0aaf"
   },
   "name": "Pétalo",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/cc/01/67/cc01670c4bf709fd0744d4a47f4c3996.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pétalo+PowerPuff Girls",
   "descriptionCat": "",
@@ -1870,11 +1760,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab0"
+    "ObjectId": "6584586e5e8d968e3a8d0ab0"
   },
   "name": "Mojo Jojo",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/564x/c2/a4/36/c2a436559360a078e8af3d0469e49140.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mojo Jojo+PowerPuff Girls",
   "descriptionCat": "",
@@ -1887,11 +1776,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab1"
+    "ObjectId": "6584586e5e8d968e3a8d0ab1"
   },
   "name": "Mario",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://images6.fanpop.com/image/photos/42600000/Mario-mario-42651924-1880-2882.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mario+Super Mario",
   "descriptionCat": "",
@@ -1904,11 +1792,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab2"
+    "ObjectId": "6584586e5e8d968e3a8d0ab2"
   },
   "name": "Luigi",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/736x/17/7e/9f/177e9f0d2fff6bacfc6324f40dfdc3a8.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Luigi+Super Mario",
   "descriptionCat": "",
@@ -1921,11 +1808,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab3"
+    "ObjectId": "6584586e5e8d968e3a8d0ab3"
   },
   "name": "Bowser",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://images.nintendolife.com/news/2013/01/bowser_is_officially_the_greatest_video_game_villain_of_all_time/large.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bowser+Super Mario",
   "descriptionCat": "",
@@ -1938,11 +1824,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab4"
+    "ObjectId": "6584586e5e8d968e3a8d0ab4"
   },
   "name": "Peach",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://www.mariowiki.com/images/thumb/f/f2/Peach_SM3DL.png/1200px-Peach_SM3DL.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Peach+Super Mario",
   "descriptionCat": "",
@@ -1955,11 +1840,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab5"
+    "ObjectId": "6584586e5e8d968e3a8d0ab5"
   },
   "name": "Toad",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://www.game-art-hq.com/wp-content/uploads/2017/05/Toad-Mario-Party-10-Official-Render-Art.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Toad+Super Mario",
   "descriptionCat": "",
@@ -1972,11 +1856,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab6"
+    "ObjectId": "6584586e5e8d968e3a8d0ab6"
   },
   "name": "Ponyo (humana)",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://4.bp.blogspot.com/-52NjquZ1N3c/WQOo8QrgjdI/AAAAAAAADmg/rqNlJoomykQU56f16eISSj779erzCAFxgCLcB/s1600/56.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ponyo (humana)+Studio Ghibli",
   "descriptionCat": "https://ca.wikipedia.org/wiki/La_Ponyo_al_penya-segat",
@@ -1989,11 +1872,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab7"
+    "ObjectId": "6584586e5e8d968e3a8d0ab7"
   },
   "name": "Chihiro",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/originals/89/87/66/89876613b6c0d7a0dcffda86f8bc46e2.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Chihiro+Studio Ghibli",
   "descriptionCat": "",
@@ -2006,11 +1888,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab8"
+    "ObjectId": "6584586e5e8d968e3a8d0ab8"
   },
   "name": "Howl",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://duckduckgo.com/?q=howl+full+body&t=ffab&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F67%2Fec%2F5b%2F67ec5bf20fd38043817d1fe2b7fad7c5.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Howl+Studio Ghibli",
   "descriptionCat": "",
@@ -2023,11 +1904,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ab9"
+    "ObjectId": "6584586e5e8d968e3a8d0ab9"
   },
   "name": "Kiki",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://cdn.vox-cdn.com/thumbor/GY1af3A1CsC10UyRv9WSzeHVHv0=/0x0:3144x1646/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20003462/GHI_Kiki_Select02.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kiki+Studio Ghibli",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Kiki,_l%27aprenent_de_bruixa",
@@ -2040,11 +1920,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aba"
+    "ObjectId": "6584586e5e8d968e3a8d0aba"
   },
   "name": "San",
   "nameDetails": "la princesa Mononoke",
-  "attendance": "",
   "image": "https://i.pinimg.com/originals/3b/18/f8/3b18f87a567a7ffacdd52fa6b9209dda.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+San+Studio Ghibli",
   "descriptionCat": "https://ca.wikipedia.org/wiki/La_Princesa_Mononoke",
@@ -2057,11 +1936,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0abb"
+    "ObjectId": "6584586e5e8d968e3a8d0abb"
   },
   "name": "Porco Rosso",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://4.bp.blogspot.com/_di621Kpm2A4/S6maVJfA3MI/AAAAAAAADbI/4L0tMP0n5Mo/s400/porco.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Porco Rosso+Studio Ghibli",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Porco_Rosso",
@@ -2074,11 +1952,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0abc"
+    "ObjectId": "6584586e5e8d968e3a8d0abc"
   },
   "name": "Kairi",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kingdomhearts/images/8/86/Kairi_HD_1.5_ReMIX.png/revision/latest?cb=20131111152344&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kairi+Kingdom Hearts",
   "descriptionCat": "",
@@ -2091,11 +1968,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0abd"
+    "ObjectId": "6584586e5e8d968e3a8d0abd"
   },
   "name": "Riku",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/kingdomhearts/images/e/ec/154px-Riku_KH2.png/revision/latest?cb=20140303131734&path-prefix=ca",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Riku+Kingdom Hearts",
   "descriptionCat": "https://kingdomhearts.fandom.com/ca/wiki/Riku",
@@ -2108,11 +1984,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0abe"
+    "ObjectId": "6584586e5e8d968e3a8d0abe"
   },
   "name": "Link",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://vignette3.wikia.nocookie.net/zelda/images/3/3c/Link_(Super_Smash_Bros._Brawl).png/revision/latest?cb=20121125020225",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Link+Legend of Zelda",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Link",
@@ -2125,11 +2000,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0abf"
+    "ObjectId": "6584586e5e8d968e3a8d0abf"
   },
   "name": "Jack Skellington",
   "nameDetails": "Jack Skeleton",
-  "attendance": "",
   "image": "https://www.sideshow.com/storage/product-images/906521/jack-skellington_disney_silo.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Jack Skellington+Nightmare before Christmas",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Jack_Skellington",
@@ -2142,11 +2016,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac0"
+    "ObjectId": "6584586e5e8d968e3a8d0ac0"
   },
   "name": "Sally",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/736x/7d/81/82/7d8182260a0f8ba194b6d8316aec3834--jack-skellington-nightmare-before-christmas.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sally+Nightmare before Christmas",
   "descriptionCat": "",
@@ -2159,11 +2032,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac1"
+    "ObjectId": "6584586e5e8d968e3a8d0ac1"
   },
   "name": "Ken",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://www.arcade-fighter.com/images/street-fighter-2/street-fighter-2-ryu-1.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ken+Street Fighter II",
   "descriptionCat": "",
@@ -2176,11 +2048,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac2"
+    "ObjectId": "6584586e5e8d968e3a8d0ac2"
   },
   "name": "Ryu",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://img4.wikia.nocookie.net/__cb20100922022906/streetfighter/images/0/04/Ken-sf2-winpose.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ryu+Street Fighter II",
   "descriptionCat": "",
@@ -2193,11 +2064,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac3"
+    "ObjectId": "6584586e5e8d968e3a8d0ac3"
   },
   "name": "Chun-Li",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://www.writeups.org/wp-content/uploads/Chun-Li-Street-Fighters.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Chun-Li+Street Fighter II",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Chun-Li",
@@ -2210,11 +2080,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac4"
+    "ObjectId": "6584586e5e8d968e3a8d0ac4"
   },
   "name": "Asterisk",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2F35%2F10%2F00%2F3510007f2bd8de909abca83c09f9010f.png&f=1&nofb=1&ipt=73dc14ce53cc5a440af33a1e8b0db62ccec922c6e372f9e0268e8834a95d706e&ipo=images",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Asterisk+Asterix",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Ast%C3%A8rix_(personatge)",
@@ -2227,11 +2096,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac5"
+    "ObjectId": "6584586e5e8d968e3a8d0ac5"
   },
   "name": "Obelix",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://alchetron.com/cdn/obelix-6b97ed7a-dfbb-4bbe-9637-8eec0cde878-resize-750.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Obelix+Asterix",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Ob%C3%A8lix",
@@ -2244,11 +2112,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac6"
+    "ObjectId": "6584586e5e8d968e3a8d0ac6"
   },
   "name": "Panoramix",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://www.site-annonce.be/sh-img/panoramix_139960_panoramix.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Panoramix+Asterix",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Panor%C3%A0mix",
@@ -2261,11 +2128,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac7"
+    "ObjectId": "6584586e5e8d968e3a8d0ac7"
   },
   "name": "Tintín",
   "nameDetails": "",
-  "attendance": "",
   "image": "http://en.tintin.com/images/tintin/actus/actus/004579/journal-tinin-combonne-annee-tintin-carte-de-voeux.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Tintín+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Tint%C3%ADn",
@@ -2278,11 +2144,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac8"
+    "ObjectId": "6584586e5e8d968e3a8d0ac8"
   },
   "name": "Haddock",
   "nameDetails": "Capità / Capitán Haddock",
-  "attendance": "",
   "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11/111746/5103369-1510117.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Haddock+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Capit%C3%A0_Haddock",
@@ -2295,11 +2160,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ac9"
+    "ObjectId": "6584586e5e8d968e3a8d0ac9"
   },
   "name": "Dupond",
   "nameDetails": "Hernández (Bigoti recte / Bigote recto)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/tintinfr/images/c/cc/Dupond.png/revision/latest?cb=20190703141715&path-prefix=fr",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dupond+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Dupond_i_Dupont",
@@ -2312,11 +2176,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0aca"
+    "ObjectId": "6584586e5e8d968e3a8d0aca"
   },
   "name": "Dupont",
   "nameDetails": "Fernández (Bigoti cap enfora / Bigote hacia afuera)",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/tintinfr/images/8/82/Screenshot_2019-07-03_dupond_et_dupont_tintin_-_Recherche_Google%281%29.png/revision/latest?cb=20190703142301&path-prefix=fr",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dupont+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Dupond_i_Dupont",
@@ -2329,11 +2192,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0acb"
+    "ObjectId": "6584586e5e8d968e3a8d0acb"
   },
   "name": "Shinji",
   "nameDetails": "Ikari Shinji - traje EVA o uniforme escolar",
-  "attendance": "",
   "image": "https://i.pinimg.com/736x/79/94/32/799432032553956c4dce23464405e543.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ikari Shinji - traje EVA o uniforme escolar+Evangelion",
   "descriptionCat": "",
@@ -2346,11 +2208,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0acc"
+    "ObjectId": "6584586e5e8d968e3a8d0acc"
   },
   "name": "Asuka",
   "nameDetails": "Rei Ayanami - traje EVA o uniforme escolar",
-  "attendance": "",
   "image": "https://pre00.deviantart.net/66a8/th/pre/i/2015/057/b/c/asuka_langley_soryu_by_el_maky_z-d7x1wpv.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Asuka+Evangelion",
   "descriptionCat": "",
@@ -2363,11 +2224,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0acd"
+    "ObjectId": "6584586e5e8d968e3a8d0acd"
   },
   "name": "Rei",
   "nameDetails": "Asuka Langley - traje EVA o uniforme escolar",
-  "attendance": "",
   "image": "https://www.kindpng.com/picc/m/167-1672232_neon-genesis-evangelion-rei-png-transparent-png.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Rei+Evangelion",
   "descriptionCat": "",
@@ -2380,11 +2240,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ace"
+    "ObjectId": "6584586e5e8d968e3a8d0ace"
   },
   "name": "Misato",
   "nameDetails": "Misato Katsuragi - Chaqueta roja",
-  "attendance": "",
   "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fevangelion%2Fimages%2F6%2F6a%2FMisato_Katsuragi_NGE_Illustration.png%2Frevision%2Flatest%3Fcb%3D20210211091233&f=1&nofb=1&ipt=8640c6f1452a9bb61552c7fd3d81017c966a1ba10f22591a1b7b4215b6b1313b&ipo=images",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Misato+Evangelion",
   "descriptionCat": "",
@@ -2397,11 +2256,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0acf"
+    "ObjectId": "6584586e5e8d968e3a8d0acf"
   },
   "name": "EVA-01",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://i.pinimg.com/736x/89/3d/6c/893d6c58c45124bab68f2b46ecf021c4.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+EVA-01+Evangelion",
   "descriptionCat": "",
@@ -2414,11 +2272,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad0"
+    "ObjectId": "6584586e5e8d968e3a8d0ad0"
   },
   "name": "EVA-02",
   "nameDetails": "",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/evangelion/images/2/2b/Evangelion_Unit-02_V2_front.png/revision/latest?cb=20190519214357",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+EVA-02+Evangelion",
   "descriptionCat": "",
@@ -2431,11 +2288,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad1"
+    "ObjectId": "6584586e5e8d968e3a8d0ad1"
   },
   "name": "Lamu",
   "nameDetails": "Lam",
-  "attendance": "",
   "image": "https://orig00.deviantart.net/cf7f/f/2016/297/9/5/urusei_yatsura__lum__png__by_uruseiyatsurax-dam5bxp.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Lamu+Lamu, la petita extraterrestre / Lum Invader",
   "descriptionCat": "",
@@ -2448,11 +2304,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad2"
+    "ObjectId": "6584586e5e8d968e3a8d0ad2"
   },
   "name": "Ten",
   "nameDetails": "Jariten",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/urusei-yatsura/images/9/95/Jariten2022Infobox.png/revision/latest?cb=20230103151154&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ten+Lamu, la petita extraterrestre / Lum Invader",
   "descriptionCat": "",
@@ -2465,11 +2320,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad3"
+    "ObjectId": "6584586e5e8d968e3a8d0ad3"
   },
   "name": "Roy Mustang",
   "nameDetails": "Alquimista de Fuego",
-  "attendance": "",
   "image": "https://static.tvtropes.org/pmwiki/pub/images/roy_mustang_57.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Roy Mustang+Fullmetal Alchemist",
   "descriptionCat": "",
@@ -2482,11 +2336,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad4"
+    "ObjectId": "6584586e5e8d968e3a8d0ad4"
   },
   "name": "Alex Louis Armstrong",
   "nameDetails": "Alquimista del Brazo Fuerte",
-  "attendance": "",
   "image": "https://i.pinimg.com/originals/08/45/2a/08452a80959a107fe3c2e89d71b02c77.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Alex Louis Armstrong+Fullmetal Alchemist",
   "descriptionCat": "",
@@ -2499,11 +2352,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad5"
+    "ObjectId": "6584586e5e8d968e3a8d0ad5"
   },
   "name": "Riza Hawkeye",
   "nameDetails": "Teniente Lisa Hawkeye",
-  "attendance": "",
   "image": "https://s-media-cache-ak0.pinimg.com/736x/c5/f2/a4/c5f2a4bb0fa7679dd0ce0ea846a4b9d5.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Riza Hawkeye+Fullmetal Alchemist",
   "descriptionCat": "",
@@ -2516,11 +2368,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad6"
+    "ObjectId": "6584586e5e8d968e3a8d0ad6"
   },
   "name": "Sailor Moon",
   "nameDetails": "Marinera Lluna / Guerrero Luna",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_%281992%29.png/revision/latest?cb=20231109134853&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Moon+Sailor Moon",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Usagi_Tsukino",
@@ -2533,11 +2384,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad7"
+    "ObjectId": "6584586e5e8d968e3a8d0ad7"
   },
   "name": "Sailor Mars",
   "nameDetails": "Marinera Mart / Guerrero Marte",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/b/bd/Sailor_Mars_-_Sailor_Moon_1992.png/revision/latest/scale-to-width-down/1000?cb=20231028141858&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Mars+Sailor Moon",
   "descriptionCat": "",
@@ -2550,11 +2400,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad8"
+    "ObjectId": "6584586e5e8d968e3a8d0ad8"
   },
   "name": "Salilor Mercury",
   "nameDetails": "Marinera Mercuri / Guerrero Mercurio",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/1/1a/Sailor_Mercury_-_Sailor_Moon.png/revision/latest?cb=20231018132340&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Salilor Mercury+Sailor Moon",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Ami_Mizuno",
@@ -2567,11 +2416,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ad9"
+    "ObjectId": "6584586e5e8d968e3a8d0ad9"
   },
   "name": "Sailor Jupiter",
   "nameDetails": "Marinera Júpiter / Guerrero Júpiter",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/7/73/Sailor_Jupiter_-_Sailor_Moon.png/revision/latest?cb=20231022025807&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Jupiter+Sailor Moon",
   "descriptionCat": "",
@@ -2584,11 +2432,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ada"
+    "ObjectId": "6584586e5e8d968e3a8d0ada"
   },
   "name": "Sailor Venus",
   "nameDetails": "Marinera Venus / Guerrero Venus",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/3/3c/Sailor_Venus_-_Sailor_Moon_1992.png/revision/latest/scale-to-width-down/1000?cb=20231028143156&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Venus+Sailor Moon",
   "descriptionCat": "",
@@ -2601,11 +2448,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0adb"
+    "ObjectId": "6584586e5e8d968e3a8d0adb"
   },
   "name": "Sailor Saturn",
   "nameDetails": "Marinera Saturn / Guerrero Saturno",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/f/fd/Sailor_Saturn_-_Sailor_Moon_S.png/revision/latest?cb=20231019143143&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Saturn+Sailor Moon",
   "descriptionCat": "",
@@ -2618,11 +2464,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0adc"
+    "ObjectId": "6584586e5e8d968e3a8d0adc"
   },
   "name": "Sailor Uranus",
   "nameDetails": "Marinera Urà / Guerrero Urano",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/2/2a/Sailor_Uranus_-_Sailor_Moon_S_%281994%29.png/revision/latest?cb=20231028230427&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Uranus+Sailor Moon",
   "descriptionCat": "",
@@ -2635,11 +2480,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0add"
+    "ObjectId": "6584586e5e8d968e3a8d0add"
   },
   "name": "Sailor Neptune",
   "nameDetails": "Marinera Neptú / Guerrero Neptuno",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/8/89/Sailor_Neptune_-_Sailor_Moon_S_%281994%29.png/revision/latest?cb=20231028230018&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Neptune+Sailor Moon",
   "descriptionCat": "",
@@ -2652,11 +2496,10 @@
 },
 {
   "_id": {
-    "$oid": "6584586e5e8d968e3a8d0ade"
+    "ObjectId": "6584586e5e8d968e3a8d0ade"
   },
   "name": "Sailor Pluto",
   "nameDetails": "Marinera Plutó / Guerrero Plutón",
-  "attendance": "",
   "image": "https://static.wikia.nocookie.net/sailormoon/images/0/03/Sailor_Pluto_-_Sailor_Moon_R_y_S.png/revision/latest?cb=20231028232004&path-prefix=es",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Pluto+Sailor Moon",
   "descriptionCat": "",
