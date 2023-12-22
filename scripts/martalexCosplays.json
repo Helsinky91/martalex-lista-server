@@ -1,4 +1,5 @@
 [{
+  
   "name": "Anakin Skywalker",
   "nameDetails": "Jedi",
   "image": "https://i.pinimg.com/564x/e9/90/80/e9908018356bf2dac081234824a480fe.jpg",
@@ -9,9 +10,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Anakin Skywalker-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
+  
   "name": "Darth Maul",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/3a/bb/1b/3abb1bba9a02cc88724e4efe1f0694eb.jpg",
@@ -22,9 +24,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Darth Maul -Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
+  
   "name": "Darth Vader",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/13/76/80/1376809e0eb47f6b3eaa6f60f3caad56.jpg",
@@ -35,9 +38,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Darth Vader-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
+  
   "name": "Luke Skywalker",
   "nameDetails": "Joven",
   "image": "https://i.pinimg.com/564x/e9/a7/16/e9a716a8d14b67bbdcdeb9334c76b0cd.jpg",
@@ -48,9 +52,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Luke Skywalker-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
+  
   "name": "Boba Fett",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/fc/3c/34/fc3c348960515322c26cc3434c342375.jpg",
@@ -61,9 +66,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Boba Fett-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
+  
   "name": "Stormtrooper",
   "nameDetails": "Soldado de Asalto - trilogia original",
   "image": "https://i.pinimg.com/564x/a3/05/16/a305160aa110544ae8a6b52cc67f73ee.jpg",
@@ -74,10 +80,9 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Stormtrooper-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-  
   "name": "The Mandalorian",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/3e/ad/7a/3ead7ad80f18f7878d681fc1e09d885d.jpg",
@@ -88,7 +93,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-The Mandalorian-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -102,7 +107,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Almirante imperial-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -116,7 +121,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Princesa Leia-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -130,7 +135,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Reina Amidala-Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -144,7 +149,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Harry Potter-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -158,7 +163,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ron Wasley-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -172,7 +177,21 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Severus Snape-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
+},
+{
+  
+  "name": "Albus Dumbledore",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/564x/72/75/68/72756828930888a3101cd80cc086f114.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Albus Dumbledore+Harry Potter",
+  "descriptionCat": "https://ca.wikipedia.org/wiki/Albus_Dumbledore",
+  "descriptionEsp": "https://es.wikipedia.org/wiki/Albus_Dumbledore",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Albus Dumbledore+Harry Potter",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Albus Dumbledore-Harry Potter.html",
+  "choosedBy": "",
+  "serie": "Harry Potter",
+  "serie details": ""
 },
 {
   
@@ -186,7 +205,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Rubeus Hagrid-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -200,7 +219,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Draco Malfoy-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -214,7 +233,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Voldemort-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -228,7 +247,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Dobby-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -242,9 +261,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sirius Black-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
+  
   "name": "Alastor Moody",
   "nameDetails": "Ull-Foll Murri / Ojo-Loco Moody",
   "image": "https://i.pinimg.com/564x/8f/6d/c2/8f6dc2e6bb8af315764e33e5c3533320.jpg",
@@ -255,7 +275,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Alastor Moody-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -269,7 +289,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Hermione Granger -Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -283,7 +303,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Luna Lovegood-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -297,7 +317,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Dolors Umbridge-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -311,7 +331,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Minerva McGonagall-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -325,7 +345,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bel·latrix-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -339,7 +359,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sybil·la Threlawney-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -353,7 +373,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Fleur Delacoeur-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -367,7 +387,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Rita Skeeter-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -381,7 +401,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Aragorn-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "El Señor de los Anillos"
+  "serie details": "El Señor de los Anillos"
 },
 {
   
@@ -395,49 +415,91 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Legolas-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "El Señor de los Anillos"
+  "serie details": "El Señor de los Anillos"
 },
 {
   
-  "name": "Bilbo Bolsón (El señor de los Anillos)",
-  "nameDetails": "",
+  "name": "Bilbo Bolsón",
+  "nameDetails": "(Anciano, de El señor de los Anillos)",
   "image": "https://i.pinimg.com/564x/2b/23/63/2b2363c5c798566b0aad011d9be22b9b.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bilbo Bolsón (El señor de los Anillos)+LOTR",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bilbo+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Bilbo_Saquet",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Bilbo_Bolson",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Bilbo Bolsón (El señor de los Anillos)+LOTR",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bilbo Bolsón (El señor de los Anillos)-LOTR.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Bilbo Bolsón El señor de los Anillos+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bilbo-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "El Señor de los Anillos"
+  "serie details": "El Señor de los Anillos"
 },
 {
   
-  "name": "Gimli hijo de Gloin",
+  "name": "Gandalf",
   "nameDetails": "",
+  "image": "https://i.pinimg.com/564x/c1/fe/66/c1fe669378d63b6c797b6f41ffe64180.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Gandalf+LOTR",
+  "descriptionCat": "https://ca.wikipedia.org/wiki/Gandalf",
+  "descriptionEsp": "https://es.wikipedia.org/wiki/Gandalf",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Gandalf+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Gandalf-LOTR.html",
+  "choosedBy": "",
+  "serie": "LOTR",
+  "serie details": "El Señor de los Anillos"
+},
+{
+  
+  "name": "Frodo",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/564x/e5/51/01/e55101cccb8c7d2f4fc8750c503867ad.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Frodo+LOTR",
+  "descriptionCat": "https://ca.wikipedia.org/wiki/Frodo_Saquet",
+  "descriptionEsp": "https://es.wikipedia.org/wiki/Frodo_Bolson",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Frodo+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Frodo-LOTR.html",
+  "choosedBy": "658566cf89f028dda65de748",
+  "serie": "LOTR",
+  "serie details": "El Señor de los Anillos"
+},
+{
+  
+  "name": "Sam",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/564x/b8/6c/a9/b86ca9714b574adb6f330a810da8fbb0.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sam+LOTR",
+  "descriptionCat": "https://ca.wikipedia.org/wiki/Samseny_Gamg%C3%AD",
+  "descriptionEsp": "https://es.wikipedia.org/wiki/Samsagaz_Gamyi",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Sam+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sam-LOTR.html",
+  "choosedBy": "6584a6f30acecb6e3dbf23ed",
+  "serie": "LOTR",
+  "serie details": "(El Señor de los Anillos)"
+},
+{
+  
+  "name": "Gimli",
+  "nameDetails": "hijo de Gloin",
   "image": "https://i.pinimg.com/564x/55/38/30/5538307192b0fdc62720e7e9be832d0d.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Gimli hijo de Gloin+LOTR",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Gimli+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Guimli",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Gimli",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Gimli hijo de Gloin+LOTR",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Gimli hijo de Gloin-LOTR.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Gimli+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Gimli-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "El Señor de los Anillos"
+  "serie details": "El Señor de los Anillos"
 },
 {
-  
-  "name": "Elrond de Rivendel",
-  "nameDetails": "",
+ 
+  "name": "Elrond",
+  "nameDetails": "de Rivendel",
   "image": "https://i.pinimg.com/564x/81/a6/27/81a6273ca8b1a889cb7fa681b6b45564.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Elrond de Rivendel+LOTR",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Elrond+LOTR",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Elrond",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Elrond",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Elrond de Rivendel+LOTR",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Elrond de Rivendel-LOTR.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Elrond+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Elrond-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "El Señor de los Anillos"
+  "serie details": "El Señor de los Anillos"
 },
 {
   
@@ -451,7 +513,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Merrin-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "(El Señor de los Anillos)"
+  "serie details": "(El Señor de los Anillos)"
 },
 {
   
@@ -465,7 +527,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Pippin-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "(El Señor de los Anillos)"
+  "serie details": "(El Señor de los Anillos)"
 },
 {
   
@@ -479,7 +541,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Dama Galadriel -LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "(El Señor de los Anillos)"
+  "serie details": "(El Señor de los Anillos)"
 },
 {
   
@@ -493,7 +555,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Arwen-LOTR.html",
   "choosedBy": "",
   "serie": "LOTR",
-  "serieDetails": "(El Señor de los Anillos)"
+  "serie details": "(El Señor de los Anillos)"
 },
 {
   
@@ -507,7 +569,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Naruto Uzumaki-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -521,7 +583,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Kakashi Hatake-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -535,7 +597,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Rock Lee-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -549,7 +611,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Gaara del Desierto-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -563,7 +625,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Nagato-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -577,7 +639,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Shikamaru-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -591,7 +653,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Kiba-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -605,7 +667,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Itachi-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -619,7 +681,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Orochimaru-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
@@ -633,10 +695,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Yahiko (Pain)-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sasuke Uchiha",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/8f/71/d9/8f71d919090c8c764bec3f41acd34ea2.jpg",
@@ -647,10 +709,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sasuke Uchiha-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Yamato",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/e2/a1/65/e2a16584ec80ad7dde754353364e1558.jpg",
@@ -661,10 +723,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Yamato-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sakura",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/ad/d9/2c/add92cbbee338f82d5da1486e23bc911.jpg",
@@ -675,10 +737,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sakura-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Hinata",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/4a/de/66/4ade6622f3e06397a5a00d7a9790aedd.jpg",
@@ -689,10 +751,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Hinata-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Temari",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/07/d4/ff/07d4ff56b00aa08d41c40c344caa3c93.jpg",
@@ -703,10 +765,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Temari-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Ino",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/40/ac/0d/40ac0db3cab91d041cac84f57a2ed5f7.jpg",
@@ -717,10 +779,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ino-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Konan",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/15/a0/bc/15a0bc950db3e8132a1021aae765db7c.jpg",
@@ -731,10 +793,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Konan-Naruto.html",
   "choosedBy": "",
   "serie": "Naruto",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Eren",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/d0/7c/44/d07c44f4ae3a774ac7e345908164dae4.jpg",
@@ -745,10 +807,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Eren-Shingeku no Kyojin.html",
   "choosedBy": "",
   "serie": "Shingeku no Kyojin",
-  "serieDetails": "Attack on Titan / Ataque a los titanes"
+  "serie details": "Attack on Titan / Ataque a los titanes"
 },
 {
-   
+  
   "name": "Armin",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/78/e6/37/78e637e62acf1940c2aa811db6d1a009.jpg",
@@ -759,10 +821,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Armin-Shingeku no Kyojin.html",
   "choosedBy": "",
   "serie": "Shingeku no Kyojin",
-  "serieDetails": "Attack on Titan / Ataque a los titanes"
+  "serie details": "Attack on Titan / Ataque a los titanes"
 },
 {
-   
+  
   "name": "Levi",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/7e/4a/e6/7e4ae6efc36d87681b298a2889ed0e5c.jpg",
@@ -773,10 +835,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Levi-Shingeku no Kyojin.html",
   "choosedBy": "",
   "serie": "Shingeku no Kyojin",
-  "serieDetails": "Attack on Titan / Ataque a los titanes"
+  "serie details": "Attack on Titan / Ataque a los titanes"
 },
 {
-   
+  
   "name": "Mikasa",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/dc/6b/4b/dc6b4b79e87990c1d832642c9b5e6b49.jpg",
@@ -787,10 +849,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Mikasa-Shingeku no Kyojin.html",
   "choosedBy": "",
   "serie": "Shingeku no Kyojin",
-  "serieDetails": "Attack on Titan / Ataque a los titanes"
+  "serie details": "Attack on Titan / Ataque a los titanes"
 },
 {
-   
+  
   "name": "Woody",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/a4/b2/10/a4b210cb0ac14c081aad81bd4b05b08c.jpg",
@@ -801,10 +863,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Woody-Toy Story.html",
   "choosedBy": "",
   "serie": "Toy Story",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Buzz",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/98/38/43/9838433789ce3361ce08238dd5ca9b80.jpg",
@@ -815,10 +877,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Buzz-Toy Story.html",
   "choosedBy": "",
   "serie": "Toy Story",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Ken",
   "nameDetails": "Vestimenta de Toy Story 3",
   "image": "https://i.pinimg.com/564x/10/4a/ec/104aec2f42b52a799ccbbc0d17a21c78.jpg",
@@ -829,10 +891,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ken-Toy Story.html",
   "choosedBy": "",
   "serie": "Toy Story",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Jessie",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/66/76/c5/6676c50031c076b29afbb391f13733ff.jpg",
@@ -843,10 +905,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Jessie-Toy Story.html",
   "choosedBy": "",
   "serie": "Toy Story",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Barbie",
   "nameDetails": "Vestimenta de Toy Story 3",
   "image": "https://i.pinimg.com/564x/92/11/39/92113960040845a9858bb4e1442339ab.jpg",
@@ -857,10 +919,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Barbie-Toy Story.html",
   "choosedBy": "",
   "serie": "Toy Story",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Miguel",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/17/6e/19/176e199c4ff242f7bb20f3abad7efba3.jpg",
@@ -871,10 +933,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Miguel-Coco.html",
   "choosedBy": "",
   "serie": "Coco",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Ernesto de la Cruz",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/93/2d/a3/932da31f9b2fc39f90621ef7b39442d1.jpg",
@@ -885,10 +947,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ernesto de la Cruz-Coco.html",
   "choosedBy": "",
   "serie": "Coco",
-  "serieDetails": "Pixar"
+  "serie details": "Pixar"
 },
 {
-   
+  
   "name": "Bert",
   "nameDetails": "(Deshollinador)",
   "image": "https://i.pinimg.com/564x/c5/a1/2e/c5a12e84c4d43a99aa0c547ae3168dc2.jpg",
@@ -899,10 +961,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bert-Mary Poppins.html",
   "choosedBy": "",
   "serie": "Mary Poppins",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Mary Poppins",
   "nameDetails": "(de calle)",
   "image": "https://i.pinimg.com/564x/a4/35/14/a43514f9a1228b21529b826e9140af03.jpg",
@@ -913,13 +975,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Mary Poppins-Mary Poppins.html",
   "choosedBy": "",
   "serie": "Mary Poppins",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Midori Yamabuki",
   "nameDetails": "(Srta. Yamabuki)",
-  "image": "https://static.wikia.nocookie.net/drslump/images/7/78/Midori1981.jpg/revision/latest?cb=20201214023943",
+  "image": "https://static.wikia.nocookie.net/drslump/images/7/78/Midori1981.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Midori Yamabuki+Dr Slump",
   "descriptionCat": "",
   "descriptionEsp": "https://drslump.fandom.com/wiki/Midori_Yamabuki",
@@ -927,10 +989,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Midori Yamabuki-Dr Slump.html",
   "choosedBy": "",
   "serie": "Dr Slump",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Kinoko",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/e7/e8/7c/e7e87cba0629ebb999d1989d67cf9274.jpg",
@@ -941,10 +1003,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Kinoko-Dr Slump.html",
   "choosedBy": "",
   "serie": "Dr Slump",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sembei Norimaki",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/59/58/01/595801ada936ce07f97459ed369055b3.jpg",
@@ -955,83 +1017,83 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sembei Norimaki-Dr Slump.html",
   "choosedBy": "",
   "serie": "Dr Slump",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
   
   "name": "Ash Ketchum",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/espokemon/images/7/71/Anime_Ash.png/revision/latest?cb=20150428172738",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ash Ketchum+Pokémon",
+  "image": "https://static.wikia.nocookie.net/espokemon/images/7/71/Anime_Ash.png",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ash Ketchum+pokemon",
   "descriptionCat": "",
   "descriptionEsp": "https://pokemon.fandom.com/es/wiki/Ash_Ketchum",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Ash Ketchum+Pokémon",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ash Ketchum-Pokémon.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Ash Ketchum+pokemon",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ash Ketchum-Pokemon.html",
   "choosedBy": "",
   "serie": "Pokémon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
-  "name": "James (Team Rocket)",
-  "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/espokemon/images/8/85/James_%28anime_SL%29.png/revision/latest?cb=20170130161644",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+James (Team Rocket)+Pokémon",
+  
+  "name": "James",
+  "nameDetails": "(Team Rocket)",
+  "image": "https://static.wikia.nocookie.net/espokemon/images/8/85/James_%28anime_SL%29.png",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+James (Team Rocket)+pokemon",
   "descriptionCat": "",
   "descriptionEsp": "https://pokemon.fandom.com/es/wiki/James",
-  "youtubeLink": "https://www.youtube.com/results?search_query=James (Team Rocket)+Pokémon",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-James (Team Rocket)-Pokémon.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=James (Team Rocket)+pokemon",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-James (Team Rocket)-Pokemon.html",
   "choosedBy": "",
   "serie": "Pokémon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Brock",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/espokemon/images/2/26/Brock_%28anime_SL%29.png/revision/latest?cb=20170907234839",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Brock+Pokémon",
+  "image": "https://static.wikia.nocookie.net/espokemon/images/2/26/Brock_%28anime_SL%29.png",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Brock+Pokemon",
   "descriptionCat": "",
   "descriptionEsp": "https://pokemon.fandom.com/es/wiki/Brock_(anime)",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Brock+Pokémon",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Brock-Pokémon.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Brock+Pokemon",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Brock-Pokemon.html",
   "choosedBy": "",
   "serie": "Pokémon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Misty",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/espokemon/images/a/ac/Misty_%28anime_SL%29.png/revision/latest?cb=20170907234816",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Misty+Pokémon",
+  "image": "https://static.wikia.nocookie.net/espokemon/images/a/ac/Misty_%28anime_SL%29.png",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Misty+pokemon",
   "descriptionCat": "",
   "descriptionEsp": "https://pokemon.fandom.com/es/wiki/Misty_(anime)",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Misty+Pokémon",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Misty-Pokémon.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Misty+pokemon",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Misty-Pokemon.html",
   "choosedBy": "",
   "serie": "Pokémon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Jessie",
-  "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/espokemon/images/b/b3/Jessie_%28anime_SL%29.png/revision/latest?cb=20170729001012",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Jessie+Pokémon",
+  "nameDetails": "(Team Rocket)",
+  "image": "https://static.wikia.nocookie.net/espokemon/images/b/b3/Jessie_%28anime_SL%29.png",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Jessie+pokemon",
   "descriptionCat": "",
   "descriptionEsp": "https://pokemon.fandom.com/es/wiki/Jessie",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Jessie+Pokémon",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Jessie-Pokémon.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Jessie+pokemon",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Jessie-Pokemon.html",
   "choosedBy": "",
   "serie": "Pokémon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Son Goku",
   "nameDetails": "(normal o superguerrer/super sayan)",
-  "image": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Son Goku+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Goku",
   "descriptionEsp": "https://dragonball.fandom.com/es/wiki/Son_Goku",
@@ -1039,13 +1101,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Son Goku-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+ 
   "name": "Krillin",
   "nameDetails": "Traje Taronja/Naranja",
-  "image": "https://static.wikia.nocookie.net/dragonball/images/d/d6/Krilin_DBZ_Artwork.png/revision/latest?cb=20170924020117&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/dragonball/images/d/d6/Krilin_DBZ_Artwork.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Krillin+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Krilin",
   "descriptionEsp": "https://dragonball.fandom.com/es/wiki/Krilin",
@@ -1053,10 +1115,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Krillin-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Vegeta",
   "nameDetails": "(normal o superguerrer/super sayan)",
   "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.wikia.com%2Fdragonball%2Fes%2Fimages%2F1%2F1e%2FVegetaInvasor.png&f=1&nofb=1&ipt=21297638d9ad630eeb6837fba236bd40608513881c15c5167e84b0b6d15e037b&ipo=images",
@@ -1067,13 +1129,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Vegeta-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Pikkoro",
   "nameDetails": "(Cor Petit/Piccolo)",
-  "image": "https://static.wikia.nocookie.net/dragonball/images/1/19/Piccolo_Fin_DB_Render.png/revision/latest?cb=20161216180851&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/dragonball/images/1/19/Piccolo_Fin_DB_Render.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pikkoro+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Cor_Petit",
   "descriptionEsp": "https://dragonball.fandom.com/es/wiki/Piccolo",
@@ -1081,10 +1143,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Pikkoro-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Yamcha",
   "nameDetails": "",
   "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/9a/Draft_1-0.png/revision/latest/scale-to-width-down/400?cb=20141016021004",
@@ -1095,13 +1157,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Yamcha-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Trunks",
-  "nameDetails": "(Adult, del futur)",
-  "image": "https://static.wikia.nocookie.net/dragonball/images/4/4b/Trunks_del_Futuro_DBZ_Render.png/revision/latest?cb=20171129051437&path-prefix=es",
+  "nameDetails": "(Adult, del futur / adulto, del futuro)",
+  "image": "https://static.wikia.nocookie.net/dragonball/images/4/4b/Trunks_del_Futuro_DBZ_Render.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Trunks+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Trunks_del_Futur",
   "descriptionEsp": "https://dragonball.fandom.com/es/wiki/Trunks_del_Futuro",
@@ -1109,13 +1171,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Trunks-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Chichi",
   "nameDetails": "(Xixi)",
-  "image": "https://dragonball.fandom.com/ca/wiki/Xixi?file=Xixi_jove.jpg",
+  "image": "https://i.pinimg.com/originals/0e/56/39/0e5639fd75c4527f4b920b10a7ac3083.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Chichi+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Xixi",
   "descriptionEsp": "https://dragonball.fandom.com/es/wiki/Chi-Chi",
@@ -1123,13 +1185,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Chichi-Dragon Ball.html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Bulma",
   "nameDetails": "",
-  "image": "https://dragonball.fandom.com/ca/wiki/Bulma?file=Bulma.png",
+  "image": "https://i.pinimg.com/736x/6e/48/20/6e4820117080285212349c1b559209c4.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Bulma+Dragon Ball",
   "descriptionCat": "https://dragonball.fandom.com/ca/wiki/Bulma",
   "descriptionEsp": "https://dragonball.fandom.com/es/wiki/Bulma",
@@ -1137,13 +1199,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bulma-(Bola de Drac/Bola de Dragón).html",
   "choosedBy": "",
   "serie": "Dragon Ball",
-  "serieDetails": "(Bola de Drac/Bola de Dragón)"
+  "serie details": "(Bola de Drac / Bola de Dragón)"
 },
 {
-   
+  
   "name": "Tanjiro Kamado",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5f/Tanjirou_anime_design.png/revision/latest?cb=20190527165749&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5f/Tanjirou_anime_design.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Tanjiro Kamado+Kimetsu no Yaiba",
   "descriptionCat": "",
   "descriptionEsp": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Tanjiro_Kamado",
@@ -1151,13 +1213,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Tanjiro Kamado-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Zenitsu",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/66/Zenitsu_anime.png/revision/latest?cb=20190916155039&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/66/Zenitsu_anime.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Zenitsu+Kimetsu no Yaiba",
   "descriptionCat": "",
   "descriptionEsp": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Zenitsu_Agatsuma",
@@ -1165,13 +1227,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Zenitsu-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Inosuke",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Inosuke_anime.png/revision/latest?cb=20181128204238",
+  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Inosuke_anime.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Inosuke+Kimetsu no Yaiba",
   "descriptionCat": "",
   "descriptionEsp": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Inosuke_Hashibira",
@@ -1179,13 +1241,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Inosuke-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Rengoku",
   "nameDetails": "(Pilar del foc/fuego)",
-  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/fd/Kyojuro_anime.png/revision/latest?cb=20190922130202&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/fd/Kyojuro_anime.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Rengoku +Kimetsu no Yaiba",
   "descriptionCat": "",
   "descriptionEsp": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Kyojuro_Rengoku",
@@ -1193,10 +1255,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Rengoku -Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Tomioka",
   "nameDetails": "(Pilar del vent/viento)",
   "image": "https://i.pinimg.com/564x/26/87/22/2687229818b77d9968d38b19387db61f.jpg",
@@ -1207,10 +1269,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Tomioka -Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+ 
   "name": "Mitsuri Kanroji",
   "nameDetails": "(Pilar de l'amor)",
   "image": "https://i.pinimg.com/564x/b2/6a/49/b26a499ef39249d1e74f18c5da8d04a6.jpg",
@@ -1221,13 +1283,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Mitsuri Kanroji-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Kanao",
   "nameDetails": "(aprenent insectes/aprendiz insectos)",
-  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/cd/Kanao_anime.png/revision/latest/scale-to-width-down/1000?cb=20191028091138",
+  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/cd/Kanao_anime.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kanao+Kimetsu no Yaiba",
   "descriptionCat": "",
   "descriptionEsp": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Kanao_Tsuyuri",
@@ -1235,13 +1297,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Kanao-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Shinobu Kocho",
   "nameDetails": "(Pilar d'insectes/de insectos)",
-  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png/revision/latest/scale-to-width-down/1000?cb=20211119011810",
+  "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e5/Shinobu_anime.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Shinobu Kocho+Kimetsu no Yaiba",
   "descriptionCat": "",
   "descriptionEsp": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Shinobu_Koch%C5%8D",
@@ -1249,10 +1311,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Shinobu Kocho-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+  
   "name": "Nezuko Kamado",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/71/7f/a9/717fa96bcd318a0d6e9b7445afbbb642.jpg",
@@ -1263,13 +1325,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Nezuko Kamado-Kimetsu no Yaiba.html",
   "choosedBy": "",
   "serie": "Kimetsu no Yaiba",
-  "serieDetails": "(Guardians de la nit/Guardianes de la noche/Demon Slayer)"
+  "serie details": "(Guardians de la nit / Guardianes de la noche / Demon Slayer)"
 },
 {
-   
+ 
   "name": "Red Ranger",
   "nameDetails": "",
-  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
+  "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-jason.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Red Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
   "descriptionEsp": "https://en.wikipedia.org/wiki/Jason_Lee_Scott",
@@ -1277,13 +1339,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Red Ranger-Mighty Morphin Power Rangers.html",
   "choosedBy": "",
   "serie": "Mighty Morphin Power Rangers",
-  "serieDetails": "Temporada 1, 2, 3"
+  "serie details": "Temporada 1, 2, 3"
 },
 {
-   
+  
   "name": "Blue Ranger",
   "nameDetails": "",
-  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
+  "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-billy.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Blue Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
   "descriptionEsp": "https://en.wikipedia.org/wiki/Billy_Cranston",
@@ -1291,13 +1353,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Blue Ranger-Mighty Morphin Power Rangers.html",
   "choosedBy": "",
   "serie": "Mighty Morphin Power Rangers",
-  "serieDetails": "Temporada 1, 2, 3"
+  "serie details": "Temporada 1, 2, 3"
 },
 {
-   
+  
   "name": "Black Ranger",
   "nameDetails": "",
-  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
+  "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-zack.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Black Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
   "descriptionEsp": "https://en.wikipedia.org/wiki/Zack_Taylor",
@@ -1305,13 +1367,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Black Ranger-Mighty Morphin Power Rangers.html",
   "choosedBy": "",
   "serie": "Mighty Morphin Power Rangers",
-  "serieDetails": "Temporada 1, 2, 3"
+  "serie details": "Temporada 1, 2, 3"
 },
 {
-   
+  
   "name": "Yellow Ranger",
   "nameDetails": "",
-  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
+  "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-trini.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Yellow Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
   "descriptionEsp": "https://en.wikipedia.org/wiki/Trini_Kwan",
@@ -1319,13 +1381,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Yellow Ranger-Mighty Morphin Power Rangers.html",
   "choosedBy": "",
   "serie": "Mighty Morphin Power Rangers",
-  "serieDetails": "Temporada 1, 2, 3"
+  "serie details": "Temporada 1, 2, 3"
 },
 {
-   
+  
   "name": "Pink Ranger",
   "nameDetails": "",
-  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3b1fa462-ee6a-4d1b-b966-6bebbfa3c834/d7oksoo-a41172bf-e98d-4ba1-b6f1-7be1ebabce08.jpg/v1/fill/w_900,h_674,q_75,strp/mighty_morphin_power_rangers_season_1_by_gara26_d7oksoo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc0IiwicGF0aCI6IlwvZlwvM2IxZmE0NjItZWU2YS00ZDFiLWI5NjYtNmJlYmJmYTNjODM0XC9kN29rc29vLWE0MTE3MmJmLWU5OGQtNGJhMS1iNmYxLTdiZTFlYmFiY2UwOC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.onl7tqXDEvxaNJ6rLGmH2WvzrZOrFSVrhfygt59abco",
+  "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-kimberly.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pink Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
   "descriptionEsp": "https://en.wikipedia.org/wiki/Kimberly_Hart",
@@ -1333,10 +1395,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Pink Ranger-Mighty Morphin Power Rangers.html",
   "choosedBy": "",
   "serie": "Mighty Morphin Power Rangers",
-  "serieDetails": "Temporada 1, 2, 3"
+  "serie details": "Temporada 1, 2, 3"
 },
 {
-   
+  
   "name": "Ranma",
   "nameDetails": "noia / chica",
   "image": "https://i.pinimg.com/564x/d8/6f/b2/d86fb2fda9161384d5fd960731d529c3.jpg",
@@ -1347,10 +1409,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ranma-Ranma.html",
   "choosedBy": "",
   "serie": "Ranma",
-  "serieDetails": "Ranma 1/2"
+  "serie details": "Ranma 1/2"
 },
 {
-   
+  
   "name": "Ranma",
   "nameDetails": "noi / chico",
   "image": "https://i.pinimg.com/564x/43/56/49/435649bc91741e12a43fb2f8fd19368e.jpg",
@@ -1361,10 +1423,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ranma-Ranma.html",
   "choosedBy": "",
   "serie": "Ranma",
-  "serieDetails": "Ranma 1/2"
+  "serie details": "Ranma 1/2"
 },
 {
-   
+  
   "name": "Ryoga",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/91/ba/35/91ba354c86c69c5254c7239cda18a49a.jpg",
@@ -1375,7 +1437,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ryoga-Ranma.html",
   "choosedBy": "",
   "serie": "Ranma",
-  "serieDetails": "Ranma 1/2"
+  "serie details": "Ranma 1/2"
 },
 {
   
@@ -1389,10 +1451,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Mousse-Ranma.html",
   "choosedBy": "",
   "serie": "Ranma",
-  "serieDetails": "Ranma 1/2"
+  "serie details": "Ranma 1/2"
 },
 {
-   
+  
   "name": "Akane",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/28/32/9f/28329fefd4bb1f13d3b56ba87d54abf1.jpg",
@@ -1403,10 +1465,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Akane-Ranma.html",
   "choosedBy": "",
   "serie": "Ranma",
-  "serieDetails": "Ranma 1/2"
+  "serie details": "Ranma 1/2"
 },
 {
-   
+  
   "name": "Shampoo",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/05/8e/a4/058ea47fea1088e7ec218379e9f25bb2.jpg",
@@ -1417,10 +1479,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Shampoo-Ranma.html",
   "choosedBy": "",
   "serie": "Ranma",
-  "serieDetails": "Ranma 1/2"
+  "serie details": "Ranma 1/2"
 },
 {
-   
+  
   "name": "Fry",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/d4/dd/cb/d4ddcb76147fdba93d30cbfc5d2b5288.jpg",
@@ -1431,10 +1493,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Fry-Futurama.html",
   "choosedBy": "",
   "serie": "Futurama",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Profesor Fansworth",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/d8/dd/6e/d8dd6e7f4bd6ba74377e6b7063109040.jpg",
@@ -1445,10 +1507,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Profesor Fansworth-Futurama.html",
   "choosedBy": "",
   "serie": "Futurama",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Zoiberg",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/30/78/81/307881b1c0e26e70627e50c8e768da93.jpg",
@@ -1459,10 +1521,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Zoiberg-Futurama.html",
   "choosedBy": "",
   "serie": "Futurama",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Bender",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/f5/8a/ba/f58aba7e82d3a5d486516edd26fd1738.jpg",
@@ -1473,10 +1535,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bender-Futurama.html",
   "choosedBy": "",
   "serie": "Futurama",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Leela",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/33/ce/67/33ce6756e9697516c582fea24a9dc2f0.jpg",
@@ -1487,10 +1549,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Leela-Futurama.html",
   "choosedBy": "",
   "serie": "Futurama",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Cactus",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/57/e8/b5/57e8b5bed765c20f7e8632d5100dbea2.jpg",
@@ -1501,10 +1563,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Cactus-PowerPuff Girls.html",
   "choosedBy": "",
   "serie": "PowerPuff Girls",
-  "serieDetails": "(PPG/Las Supernenas)"
+  "serie details": "(PPG / Las Supernenas)"
 },
 {
-   
+  
   "name": "Burbuja",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/33/bc/73/33bc73fe242f97035b76b8ae52f039c0.jpg",
@@ -1515,7 +1577,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Burbuja-PowerPuff Girls.html",
   "choosedBy": "",
   "serie": "PowerPuff Girls",
-  "serieDetails": "(PPG/Las Supernenas)"
+  "serie details": "(PPG / Las Supernenas)"
 },
 {
    
@@ -1529,7 +1591,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Pétalo-PowerPuff Girls.html",
   "choosedBy": "",
   "serie": "PowerPuff Girls",
-  "serieDetails": "(PPG/Las Supernenas)"
+  "serie details": "(PPG / Las Supernenas)"
 },
 {
   
@@ -1543,10 +1605,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Mojo Jojo-PowerPuff Girls.html",
   "choosedBy": "",
   "serie": "PowerPuff Girls",
-  "serieDetails": "(PPG/Las Supernenas)"
+  "serie details": "(PPG / Las Supernenas)"
 },
 {
-   
+  
   "name": "Mario",
   "nameDetails": "",
   "image": "http://images6.fanpop.com/image/photos/42600000/Mario-mario-42651924-1880-2882.png",
@@ -1557,7 +1619,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Mario-Super Mario.html",
   "choosedBy": "",
   "serie": "Super Mario",
-  "serieDetails": "Super Mario Bros."
+  "serie details": "Super Mario Bros."
 },
 {
    
@@ -1571,7 +1633,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Luigi-Super Mario.html",
   "choosedBy": "",
   "serie": "Super Mario",
-  "serieDetails": "Super Mario Bros."
+  "serie details": "Super Mario Bros."
 },
 {
    
@@ -1585,7 +1647,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Bowser-Super Mario.html",
   "choosedBy": "",
   "serie": "Super Mario",
-  "serieDetails": "Super Mario Bros."
+  "serie details": "Super Mario Bros."
 },
 {
    
@@ -1599,7 +1661,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Peach-Super Mario.html",
   "choosedBy": "",
   "serie": "Super Mario",
-  "serieDetails": "Super Mario Bros."
+  "serie details": "Super Mario Bros."
 },
 {
    
@@ -1613,7 +1675,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Toad-Super Mario.html",
   "choosedBy": "",
   "serie": "Super Mario",
-  "serieDetails": "Super Mario Bros."
+  "serie details": "Super Mario Bros."
 },
 {
    
@@ -1627,7 +1689,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ponyo (humana)-Studio Ghibli.html",
   "choosedBy": "",
   "serie": "Studio Ghibli",
-  "serieDetails": "Ponyo"
+  "serie details": "Ponyo"
 },
 {
    
@@ -1641,7 +1703,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Chihiro-Studio Ghibli.html",
   "choosedBy": "",
   "serie": "Studio Ghibli",
-  "serieDetails": "El Viaje de Chihiro"
+  "serie details": "El Viaje de Chihiro"
 },
 {
    
@@ -1655,7 +1717,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Howl-Studio Ghibli.html",
   "choosedBy": "",
   "serie": "Studio Ghibli",
-  "serieDetails": "El Castillo Ambulante"
+  "serie details": "El Castillo Ambulante"
 },
 {
    
@@ -1669,7 +1731,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-witch+kiki+ghibli.html",
   "choosedBy": "",
   "serie": "Studio Ghibli",
-  "serieDetails": "Kiki"
+  "serie details": "Kiki"
 },
 {
    
@@ -1683,7 +1745,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-mononoke.html",
   "choosedBy": "",
   "serie": "Studio Ghibli",
-  "serieDetails": "La princesa Mononoke"
+  "serie details": "La princesa Mononoke"
 },
 {
    
@@ -1697,13 +1759,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Porco Rosso-Studio Ghibli.html",
   "choosedBy": "",
   "serie": "Studio Ghibli",
-  "serieDetails": "Porco Rosso"
+  "serie details": "Porco Rosso"
 },
 {
    
   "name": "Kairi",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/kingdomhearts/images/8/86/Kairi_HD_1.5_ReMIX.png/revision/latest?cb=20131111152344&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/kingdomhearts/images/8/86/Kairi_HD_1.5_ReMIX.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Kairi+Kingdom Hearts",
   "descriptionCat": "",
   "descriptionEsp": "https://kingdomhearts.fandom.com/es/wiki/Kairi",
@@ -1711,13 +1773,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Kairi-Kingdom Hearts.html",
   "choosedBy": "",
   "serie": "Kingdom Hearts",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Riku",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/kingdomhearts/images/e/ec/154px-Riku_KH2.png/revision/latest?cb=20140303131734&path-prefix=ca",
+  "image": "https://static.wikia.nocookie.net/kingdomhearts/images/e/ec/154px-Riku_KH2.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Riku+Kingdom Hearts",
   "descriptionCat": "https://kingdomhearts.fandom.com/ca/wiki/Riku",
   "descriptionEsp": "https://kingdomhearts.fandom.com/es/wiki/Riku",
@@ -1725,10 +1787,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Riku-Kingdom Hearts.html",
   "choosedBy": "",
   "serie": "Kingdom Hearts",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Link",
   "nameDetails": "",
   "image": "https://vignette3.wikia.nocookie.net/zelda/images/3/3c/Link_(Super_Smash_Bros._Brawl).png/revision/latest?cb=20121125020225",
@@ -1739,10 +1801,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Link-Legend of Zelda.html",
   "choosedBy": "",
   "serie": "Legend of Zelda",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Jack Skellington",
   "nameDetails": "Jack Skeleton",
   "image": "https://www.sideshow.com/storage/product-images/906521/jack-skellington_disney_silo.png",
@@ -1753,10 +1815,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Jack Skellington-Nightmare before Christmas .html",
   "choosedBy": "",
   "serie": "Nightmare before Christmas",
-  "serieDetails": "Pesadilla antes de Navidad"
+  "serie details": "Pesadilla antes de Navidad"
 },
 {
-   
+  
   "name": "Sally",
   "nameDetails": "",
   "image": "https://i.pinimg.com/736x/7d/81/82/7d8182260a0f8ba194b6d8316aec3834--jack-skellington-nightmare-before-christmas.jpg",
@@ -1767,10 +1829,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sally-Nightmare before Christmas .html",
   "choosedBy": "",
   "serie": "Nightmare before Christmas",
-  "serieDetails": "Pesadilla antes de Navidad"
+  "serie details": "Pesadilla antes de Navidad"
 },
 {
-   
+  
   "name": "Ken",
   "nameDetails": "",
   "image": "http://www.arcade-fighter.com/images/street-fighter-2/street-fighter-2-ryu-1.jpg",
@@ -1781,7 +1843,7 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ken-Street Fighter II.html",
   "choosedBy": "",
   "serie": "Street Fighter II",
-  "serieDetails": "SF2"
+  "serie details": "SF2"
 },
 {
   
@@ -1795,10 +1857,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ryu-Street Fighter II.html",
   "choosedBy": "",
   "serie": "Street Fighter II",
-  "serieDetails": "SF2"
+  "serie details": "SF2"
 },
 {
-   
+  
   "name": "Chun-Li",
   "nameDetails": "",
   "image": "https://www.writeups.org/wp-content/uploads/Chun-Li-Street-Fighters.jpg",
@@ -1809,10 +1871,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Chun-Li-Street Fighter II.html",
   "choosedBy": "",
   "serie": "Street Fighter II",
-  "serieDetails": "SF2"
+  "serie details": "SF2"
 },
 {
-   
+  
   "name": "Asterisk",
   "nameDetails": "",
   "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2F35%2F10%2F00%2F3510007f2bd8de909abca83c09f9010f.png&f=1&nofb=1&ipt=73dc14ce53cc5a440af33a1e8b0db62ccec922c6e372f9e0268e8834a95d706e&ipo=images",
@@ -1823,10 +1885,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Asterisk-Asterix.html",
   "choosedBy": "",
   "serie": "Asterix",
-  "serieDetails": "Astèrix el gal / Astérix el galo"
+  "serie details": "Astèrix el gal / Astérix el galo"
 },
 {
-   
+  
   "name": "Obelix",
   "nameDetails": "",
   "image": "https://alchetron.com/cdn/obelix-6b97ed7a-dfbb-4bbe-9637-8eec0cde878-resize-750.jpg",
@@ -1837,10 +1899,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Obelix-Asterix.html",
   "choosedBy": "",
   "serie": "Asterix",
-  "serieDetails": "Astèrix el gal / Astérix el galo"
+  "serie details": "Astèrix el gal / Astérix el galo"
 },
 {
-   
+  
   "name": "Panoramix",
   "nameDetails": "",
   "image": "https://www.site-annonce.be/sh-img/panoramix_139960_panoramix.jpg",
@@ -1851,10 +1913,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Panoramix-Asterix.html",
   "choosedBy": "",
   "serie": "Asterix",
-  "serieDetails": "Astèrix el gal / Astérix el galo"
+  "serie details": "Astèrix el gal / Astérix el galo"
 },
 {
-   
+  
   "name": "Tintín",
   "nameDetails": "",
   "image": "http://en.tintin.com/images/tintin/actus/actus/004579/journal-tinin-combonne-annee-tintin-carte-de-voeux.jpg",
@@ -1865,10 +1927,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Tintín-Tintin.html",
   "choosedBy": "",
   "serie": "Tintin",
-  "serieDetails": "Les aventures de Tintín / Las aventuras de Tintín"
+  "serie details": "Les aventures de Tintín / Las aventuras de Tintín"
 },
 {
-   
+  
   "name": "Haddock",
   "nameDetails": "Capità / Capitán Haddock",
   "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11/111746/5103369-1510117.jpg",
@@ -1879,13 +1941,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Haddock-Tintin.html",
   "choosedBy": "",
   "serie": "Tintin",
-  "serieDetails": "Les aventures de Tintín / Las aventuras de Tintín"
+  "serie details": "Les aventures de Tintín / Las aventuras de Tintín"
 },
 {
-   
+  
   "name": "Dupond",
   "nameDetails": "Hernández (Bigoti recte / Bigote recto)",
-  "image": "https://static.wikia.nocookie.net/tintinfr/images/c/cc/Dupond.png/revision/latest?cb=20190703141715&path-prefix=fr",
+  "image": "https://static.wikia.nocookie.net/tintinfr/images/c/cc/Dupond.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dupond+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Dupond_i_Dupont",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Hern%C3%A1ndez_y_Fern%C3%A1ndez",
@@ -1893,13 +1955,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Dupond-Tintin.html",
   "choosedBy": "",
   "serie": "Tintin",
-  "serieDetails": "Les aventures de Tintín / Las aventuras de Tintín"
+  "serie details": "Les aventures de Tintín / Las aventuras de Tintín"
 },
 {
-   
+  
   "name": "Dupont",
   "nameDetails": "Fernández (Bigoti cap enfora / Bigote hacia afuera)",
-  "image": "https://static.wikia.nocookie.net/tintinfr/images/8/82/Screenshot_2019-07-03_dupond_et_dupont_tintin_-_Recherche_Google%281%29.png/revision/latest?cb=20190703142301&path-prefix=fr",
+  "image": "https://static.wikia.nocookie.net/tintinfr/images/8/82/Screenshot_2019-07-03_dupond_et_dupont_tintin_-_Recherche_Google%281%29.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dupont+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Dupond_i_Dupont",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Hern%C3%A1ndez_y_Fern%C3%A1ndez",
@@ -1907,10 +1969,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Dupont-Tintin.html",
   "choosedBy": "",
   "serie": "Tintin",
-  "serieDetails": "Les aventures de Tintín / Las aventuras de Tintín"
+  "serie details": "Les aventures de Tintín / Las aventuras de Tintín"
 },
 {
-   
+  
   "name": "Shinji",
   "nameDetails": "Ikari Shinji - traje EVA o uniforme escolar",
   "image": "https://i.pinimg.com/736x/79/94/32/799432032553956c4dce23464405e543.jpg",
@@ -1921,10 +1983,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ikari Shinji - traje EVA o uniforme escolar-Evangelion.html",
   "choosedBy": "",
   "serie": "Evangelion",
-  "serieDetails": "Neon Genesis: Evangelion"
+  "serie details": "Neon Genesis: Evangelion"
 },
 {
-   
+  
   "name": "Asuka",
   "nameDetails": "Rei Ayanami - traje EVA o uniforme escolar",
   "image": "https://pre00.deviantart.net/66a8/th/pre/i/2015/057/b/c/asuka_langley_soryu_by_el_maky_z-d7x1wpv.png",
@@ -1935,10 +1997,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Asuka-Evangelion.html",
   "choosedBy": "",
   "serie": "Evangelion",
-  "serieDetails": "Neon Genesis: Evangelion"
+  "serie details": "Neon Genesis: Evangelion"
 },
 {
-   
+  
   "name": "Rei",
   "nameDetails": "Asuka Langley - traje EVA o uniforme escolar",
   "image": "https://www.kindpng.com/picc/m/167-1672232_neon-genesis-evangelion-rei-png-transparent-png.png",
@@ -1949,10 +2011,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Rei-Evangelion.html",
   "choosedBy": "",
   "serie": "Evangelion",
-  "serieDetails": "Neon Genesis: Evangelion"
+  "serie details": "Neon Genesis: Evangelion"
 },
 {
-   
+  
   "name": "Misato",
   "nameDetails": "Misato Katsuragi - Chaqueta roja",
   "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fevangelion%2Fimages%2F6%2F6a%2FMisato_Katsuragi_NGE_Illustration.png%2Frevision%2Flatest%3Fcb%3D20210211091233&f=1&nofb=1&ipt=8640c6f1452a9bb61552c7fd3d81017c966a1ba10f22591a1b7b4215b6b1313b&ipo=images",
@@ -1963,10 +2025,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Misato-Evangelion.html",
   "choosedBy": "",
   "serie": "Evangelion",
-  "serieDetails": "Neon Genesis: Evangelion"
+  "serie details": "Neon Genesis: Evangelion"
 },
 {
-   
+  
   "name": "EVA-01",
   "nameDetails": "",
   "image": "https://i.pinimg.com/736x/89/3d/6c/893d6c58c45124bab68f2b46ecf021c4.jpg",
@@ -1977,13 +2039,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-EVA-01-Evangelion.html",
   "choosedBy": "",
   "serie": "Evangelion",
-  "serieDetails": "Neon Genesis: Evangelion"
+  "serie details": "Neon Genesis: Evangelion"
 },
 {
-   
+  
   "name": "EVA-02",
   "nameDetails": "",
-  "image": "https://static.wikia.nocookie.net/evangelion/images/2/2b/Evangelion_Unit-02_V2_front.png/revision/latest?cb=20190519214357",
+  "image": "https://static.wikia.nocookie.net/evangelion/images/2/2b/Evangelion_Unit-02_V2_front.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+EVA-02+Evangelion",
   "descriptionCat": "",
   "descriptionEsp": "https://evangelion.fandom.com/es/wiki/Evangelion_Unidad_02_(Rebuild)",
@@ -1991,10 +2053,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-EVA-02-Evangelion.html",
   "choosedBy": "",
   "serie": "Evangelion",
-  "serieDetails": "Neon Genesis: Evangelion"
+  "serie details": "Neon Genesis: Evangelion"
 },
 {
-   
+  
   "name": "Lamu",
   "nameDetails": "Lam",
   "image": "https://orig00.deviantart.net/cf7f/f/2016/297/9/5/urusei_yatsura__lum__png__by_uruseiyatsurax-dam5bxp.png",
@@ -2005,13 +2067,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Lamu-Urusei Yatsura.html",
   "choosedBy": "",
   "serie": "Urusei Yatsura",
-  "serieDetails": "Lamu, la petita extraterrestre / Lum Invader"
+  "serie details": "Lamu, la petita extraterrestre / Lum Invader"
 },
 {
-   
+  
   "name": "Ten",
   "nameDetails": "Jariten",
-  "image": "https://static.wikia.nocookie.net/urusei-yatsura/images/9/95/Jariten2022Infobox.png/revision/latest?cb=20230103151154&path-prefix=es",
+  "image": "https://static.wikia.nocookie.net/urusei-yatsura/images/9/95/Jariten2022Infobox.png",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ten+Lamu, la petita extraterrestre / Lum Invader",
   "descriptionCat": "",
   "descriptionEsp": "https://urusei-yatsura.fandom.com/es/wiki/Jariten",
@@ -2019,10 +2081,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ten-Urusei Yatsura.html",
   "choosedBy": "",
   "serie": "Urusei Yatsura",
-  "serieDetails": "Lamu, la petita extraterrestre / Lum Invader"
+  "serie details": "Lamu, la petita extraterrestre / Lum Invader"
 },
 {
-   
+  
   "name": "Roy Mustang",
   "nameDetails": "Alquimista de Fuego",
   "image": "https://static.tvtropes.org/pmwiki/pub/images/roy_mustang_57.png",
@@ -2033,10 +2095,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Roy Mustang-Fullmetal Alchemist.html",
   "choosedBy": "",
   "serie": "Fullmetal Alchemist",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Alex Louis Armstrong",
   "nameDetails": "Alquimista del Brazo Fuerte",
   "image": "https://i.pinimg.com/originals/08/45/2a/08452a80959a107fe3c2e89d71b02c77.png",
@@ -2047,10 +2109,10 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Alex Louis Armstrong-Fullmetal Alchemist.html",
   "choosedBy": "",
   "serie": "Fullmetal Alchemist",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Riza Hawkeye",
   "nameDetails": "Teniente Lisa Hawkeye",
   "image": "https://s-media-cache-ak0.pinimg.com/736x/c5/f2/a4/c5f2a4bb0fa7679dd0ce0ea846a4b9d5.jpg",
@@ -2061,13 +2123,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Riza Hawkeye-Fullmetal Alchemist.html",
   "choosedBy": "",
   "serie": "Fullmetal Alchemist",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Moon",
   "nameDetails": "Marinera Lluna / Guerrero Luna",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/4/40/Sailor_Moon_-_Sailor_Moon_%281992%29.png/revision/latest?cb=20231109134853&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/e6/a4/18/e6a418d5243b2de4b307d51a9fe2378d.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Moon+Sailor Moon",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Usagi_Tsukino",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Moon",
@@ -2075,13 +2137,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Moon-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Mars",
   "nameDetails": "Marinera Mart / Guerrero Marte",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/b/bd/Sailor_Mars_-_Sailor_Moon_1992.png/revision/latest/scale-to-width-down/1000?cb=20231028141858&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/89/14/75/8914757b0669d08ca615f686ef028424.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Mars+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Mars",
@@ -2089,27 +2151,27 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Mars-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Salilor Mercury",
   "nameDetails": "Marinera Mercuri / Guerrero Mercurio",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/1/1a/Sailor_Mercury_-_Sailor_Moon.png/revision/latest?cb=20231018132340&path-prefix=es",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Salilor Mercury+Sailor Moon",
+  "image": "https://cdn.donmai.us/original/9f/2b/__mizuno_ami_and_sailor_mercury_bishoujo_senshi_sailor_moon__9f2b57835148516a0fa8e33e2b3bc9dc.png",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Mercury+Sailor Moon",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Ami_Mizuno",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Mercury",
   "youtubeLink": "https://www.youtube.com/results?search_query=Salilor Mercury+Sailor Moon",
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Salilor Mercury-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Jupiter",
   "nameDetails": "Marinera Júpiter / Guerrero Júpiter",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/7/73/Sailor_Jupiter_-_Sailor_Moon.png/revision/latest?cb=20231022025807&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/ab/65/8e/ab658ef5ca60220198fe2ead45f05304.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Jupiter+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Jupiter",
@@ -2117,13 +2179,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Jupiter-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Venus",
   "nameDetails": "Marinera Venus / Guerrero Venus",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/3/3c/Sailor_Venus_-_Sailor_Moon_1992.png/revision/latest/scale-to-width-down/1000?cb=20231028143156&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/46/43/e3/4643e307b990ea2e2e4d06f9d031f268.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Venus+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Venus",
@@ -2131,13 +2193,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Venus-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Saturn",
   "nameDetails": "Marinera Saturn / Guerrero Saturno",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/f/fd/Sailor_Saturn_-_Sailor_Moon_S.png/revision/latest?cb=20231019143143&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/b2/a2/08/b2a208ff20b61c1449efec89ab8326bd.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Saturn+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Saturn",
@@ -2145,13 +2207,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Saturn-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Uranus",
   "nameDetails": "Marinera Urà / Guerrero Urano",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/2/2a/Sailor_Uranus_-_Sailor_Moon_S_%281994%29.png/revision/latest?cb=20231028230427&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/17/ed/64/17ed64641305db68aa4e925131507881.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Uranus+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Uranus",
@@ -2159,13 +2221,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Uranus-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Neptune",
   "nameDetails": "Marinera Neptú / Guerrero Neptuno",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/8/89/Sailor_Neptune_-_Sailor_Moon_S_%281994%29.png/revision/latest?cb=20231028230018&path-prefix=es",
+  "image": "https://i.pinimg.com/736x/94/27/6e/94276e39228bd220f40267778daf2258.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Neptune+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Neptune",
@@ -2173,13 +2235,13 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Neptune-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 },
 {
-   
+  
   "name": "Sailor Pluto",
   "nameDetails": "Marinera Plutó / Guerrero Plutón",
-  "image": "https://static.wikia.nocookie.net/sailormoon/images/0/03/Sailor_Pluto_-_Sailor_Moon_R_y_S.png/revision/latest?cb=20231028232004&path-prefix=es",
+  "image": "https://static.zerochan.net/Sailor.Pluto.full.3491659.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sailor Pluto+Sailor Moon",
   "descriptionCat": "",
   "descriptionEsp": "https://sailormoon.fandom.com/es/wiki/Sailor_Pluto",
@@ -2187,5 +2249,5 @@
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sailor Pluto-Sailor Moon.html",
   "choosedBy": "",
   "serie": "Sailor Moon",
-  "serieDetails": ""
+  "serie details": ""
 }]
