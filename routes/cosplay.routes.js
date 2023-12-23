@@ -43,15 +43,13 @@ router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
     const { cosplayId } = req.params;
     try {
 
-      console.log("logged user id: ", req.payload._id)
+      // if (!req.payload._id) {
+      //   return res.status(404).json({ message: 'User not found' });
+      // }
 
       await User.findByIdAndUpdate(req.payload._id, {       
         $addToSet: { cosplayId : cosplayId }
       });
-
-      if (!req.payload._id) {
-        return res.status(404).json({ message: 'User not found' });
-      }
 
       await Cosplay.findByIdAndUpdate(cosplayId, {
         choosedBy: req.payload._id
@@ -64,7 +62,31 @@ router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
   });
 
 
-//! FALTA UN-CHOOSE COSPLAY ROUTE
+// PATCH "/api/cosplay/:cosplayId/unchoose-cosplay" --> removes one cosplay from your profile
+router.patch("/:cosplayId/unchoose-cosplay", async (req, res, next) => {
+  const { cosplayId } = req.params;
+  try {
+      
+      // if (!req.payload._id) {
+      //     return res.status(404).json({ message: 'User not found' });
+      // }
+
+      // Remove the cosplayId from the user's cosplayId array
+      await User.findByIdAndUpdate(req.payload._id, {
+          $pull: { cosplayId: cosplayId }
+      });
+
+      // Remove the choosedBy information from the cosplay
+      await Cosplay.findByIdAndUpdate(cosplayId, {
+          choosedBy: null
+      });
+
+      res.status(200).json({ message: "Cosplay removed from profile successfully" });
+  } catch (err) {
+      next(err);
+  }
+});
+
 
 //POST "api/cosplay/create-cosplay" --> create new cosplay (receives details from new cosplay in FE and creates new cosplay in DB)
 // router.post("/create-cosplay", async (req, res, next) => {
