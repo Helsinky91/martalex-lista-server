@@ -4,7 +4,17 @@ const router = require("express").Router();
 //GET "api/cosplay/cosplay-list" --> shows a list of all cosplays
 router.get("/cosplay-list", async (req, res, next) => {
     try {
-        const response = await Cosplay.find() //.select("name")
+        const response = await Cosplay.find()
+
+        //this code is to retrieve data from JSON in dif order
+    //     const totalCosplays = await Cosplay.countDocuments();
+    // const randomOffset = Math.floor(Math.random() * totalCosplays);
+
+    // const response = await Cosplay.find()
+    //   .skip(randomOffset)
+    //   .limit(300); // Adjust the limit based on your needs
+
+    // console.log("cosplaylist: ", response);
         res.status(200).json(response)
         
     } catch(err){
@@ -19,7 +29,7 @@ router.get("/:cosplayId/details", async (req, res, next) => {
   
     try {
       const response = await Cosplay.findById(cosplayId)//.populate("choosedBy");
-      console.log("cosplay details route: ", response)
+      // console.log("cosplay details route: ", response)
       res.status(200).json(response);
     } catch (error) {
       next(error);
