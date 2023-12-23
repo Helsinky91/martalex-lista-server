@@ -1,8 +1,7 @@
 const router = require("express").Router();
-const attendance = require("../utils/attendance");
 const User = require("../models/User.model");
 
-//! ONLY ROLE = ADMIN
+
 //GET "/api/profile/list" --> show filtered profile list
 router.get("/list", async (req, res, next) => {
     try{
@@ -25,7 +24,6 @@ router.get("/my-profile", async (req, res, next) => {
   });
 
 
-  //! ONLY USER ROLE ADMIN OR USER ROLE LIMITED. EN FRONT FILTER FURTHER
 // GET "/api/profile/:userId/details" -> shows one profile by ID
 router.get("/:userId/details", async (req, res, next) => {
     const { userId } = req.params;
@@ -41,12 +39,5 @@ router.get("/:userId/details", async (req, res, next) => {
 //! PROFILE EDIT
 //! PROFILE DELETE
 
-
-
-
-// //GET "/api/profile/attendance" --> shows attendance in profile
-// router.get("/attendance", async (req, res, next) => {
-//     res.status(200).json(attendance);
-// });
 
 module.exports = router;

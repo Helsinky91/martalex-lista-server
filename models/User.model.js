@@ -15,10 +15,6 @@ const userSchema = new Schema(
       type: String,
       required: [true, 'Introduce una contraseña.']
     },
-    // photo: {
-    //   //! to change when choosing a cosplay??
-    //   type: String,
-    // }, 
     cosplayId: [
       {
         //feeds from Cosplay.model

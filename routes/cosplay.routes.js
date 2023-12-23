@@ -1,4 +1,5 @@
 const Cosplay = require("../models/Cosplay.model");
+const User = require("../models/User.model");
 const router = require("express").Router();
 
 //GET "api/cosplay/cosplay-list" --> shows a list of all cosplays
@@ -28,7 +29,7 @@ router.get("/:cosplayId/details", async (req, res, next) => {
     const { cosplayId } = req.params;
   
     try {
-      const response = await Cosplay.findById(cosplayId)//.populate("choosedBy");
+      const response = await Cosplay.findById(cosplayId).populate("choosedBy");
       // console.log("cosplay details route: ", response)
       res.status(200).json(response);
     } catch (error) {
@@ -39,10 +40,21 @@ router.get("/:cosplayId/details", async (req, res, next) => {
 
 // PATCH "/api/cosplay/:cosplayId/choose-cosplay" --> adds one cosplay to your profile
 router.patch("/:cosplayId/choose-cosplay", async (req, res, next) => {
-    const { userId } = req.payload;
+    const { cosplayId } = req.params;
     try {
-      await Cosplay.findByIdAndUpdate(req.params.cosplayId, {
-        $addToSet: { choosedBy: userId }
+
+      console.log("logged user id: ", req.payload._id)
+
+      await User.findByIdAndUpdate(req.payload._id, {       
+        $addToSet: { cosplayId : cosplayId }
+      });
+
+      if (!req.payload._id) {
+        return res.status(404).json({ message: 'User not found' });
+      }
+
+      await Cosplay.findByIdAndUpdate(cosplayId, {
+        choosedBy: req.payload._id
       });
   
       res.status(200).json({ message: "Cosplay added to profile successfully" });
