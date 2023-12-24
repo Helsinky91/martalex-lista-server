@@ -2,21 +2,23 @@ const Cosplay = require("../models/Cosplay.model");
 const User = require("../models/User.model");
 const router = require("express").Router();
 
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
 //GET "api/cosplay/cosplay-list" --> shows a list of all cosplays
 router.get("/cosplay-list", async (req, res, next) => {
     try {
         const response = await Cosplay.find()
-
-        //this code is to retrieve data from JSON in dif order
-    //     const totalCosplays = await Cosplay.countDocuments();
-    // const randomOffset = Math.floor(Math.random() * totalCosplays);
-
-    // const response = await Cosplay.find()
-    //   .skip(randomOffset)
-    //   .limit(300); // Adjust the limit based on your needs
-
+        const shuffledCosplays = shuffleArray(response);
+    
     // console.log("cosplaylist: ", response);
-        res.status(200).json(response)
+        // res.status(200).json(response)
+        res.status(200).json(shuffledCosplays)
         
     } catch(err){
         next(err)
