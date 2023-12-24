@@ -7,12 +7,12 @@
   "descriptionCat": "",
   "descriptionEsp": "https://starwars.fandom.com/es/wiki/Anakin_Skywalker",
   "youtubeLink": "https://www.youtube.com/results?search_query=Anakin Skywalker+Star Wars",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Anakin Skywalker-Star Wars.html",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay Anakin Skywalker Star Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
   "serieDetails": ""
 },
-{
+{ 
   
   "name": "Darth Maul",
   "nameDetails": "",
@@ -21,7 +21,7 @@
   "descriptionCat": "",
   "descriptionEsp": "https://starwars.fandom.com/es/wiki/Maul",
   "youtubeLink": "https://www.youtube.com/results?search_query=Darth Maul +Star Wars",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Darth Maul -Star Wars.html",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Darth-Maul-Star.Wars.html",
   "choosedBy": "",
   "serie": "Star Wars",
   "serieDetails": ""
@@ -153,14 +153,14 @@
 },
 {
   
-  "name": "Ron Wasley",
+  "name": "Ron Weasley",
   "nameDetails": "",
   "image": "https://i.pinimg.com/564x/62/9b/dd/629bddaf460302a6685a2dc8a0a5abdc.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ron Wasley+Harry Potter",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ron Weasley+Harry Potter",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Ronald_Weasley",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Ron_Weasley",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Ron Wasley+Harry Potter",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ron Wasley-Harry Potter.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Ron Weasley+Harry Potter",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Ron Weasley-Harry Potter.html",
   "choosedBy": "",
   "serie": "Harry Potter",
   "serieDetails": ""
@@ -444,34 +444,6 @@
   "choosedBy": "",
   "serie": "LOTR",
   "serieDetails": "El Señor de los Anillos"
-},
-{
-  
-  "name": "Frodo",
-  "nameDetails": "",
-  "image": "https://i.pinimg.com/564x/e5/51/01/e55101cccb8c7d2f4fc8750c503867ad.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Frodo+LOTR",
-  "descriptionCat": "https://ca.wikipedia.org/wiki/Frodo_Saquet",
-  "descriptionEsp": "https://es.wikipedia.org/wiki/Frodo_Bolson",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Frodo+LOTR",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Frodo-LOTR.html",
-  "choosedBy": "658566cf89f028dda65de748",
-  "serie": "LOTR",
-  "serieDetails": "El Señor de los Anillos"
-},
-{
-  
-  "name": "Sam",
-  "nameDetails": "",
-  "image": "https://i.pinimg.com/564x/b8/6c/a9/b86ca9714b574adb6f330a810da8fbb0.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sam+LOTR",
-  "descriptionCat": "https://ca.wikipedia.org/wiki/Samseny_Gamg%C3%AD",
-  "descriptionEsp": "https://es.wikipedia.org/wiki/Samsagaz_Gamyi",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Sam+LOTR",
-  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sam-LOTR.html",
-  "choosedBy": "6584a6f30acecb6e3dbf23ed",
-  "serie": "LOTR",
-  "serieDetails": "(El Señor de los Anillos)"
 },
 {
   
@@ -1667,12 +1639,26 @@
    
   "name": "Toad",
   "nameDetails": "",
-  "image": "http://www.game-art-hq.com/wp-content/uploads/2017/05/Toad-Mario-Party-10-Official-Render-Art.png",
+  "image": "https://i.pinimg.com/736x/a5/7f/77/a57f7758fbaa344d0289d70859371544.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Toad+Super Mario",
   "descriptionCat": "",
   "descriptionEsp": "https://mario.fandom.com/es/wiki/Toad",
   "youtubeLink": "https://www.youtube.com/results?search_query=Toad+Super Mario",
   "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Toad-Super Mario.html",
+  "choosedBy": "",
+  "serie": "Super Mario",
+  "serieDetails": "Super Mario Bros."
+},
+{
+  
+  "name": "Wario",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/736x/00/e4/3b/00e43becef8b7c4515077fa05c60a242.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Wario+Super Mario",
+  "descriptionCat": "",
+  "descriptionEsp": "https://mario.fandom.com/es/wiki/Wario",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Wario+Super Mario",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Wario-Super Mario.html",
   "choosedBy": "",
   "serie": "Super Mario",
   "serieDetails": "Super Mario Bros."
@@ -1763,6 +1749,20 @@
 },
 {
    
+  "name": "Sora",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/736x/1b/28/7c/1b287c5bb550c697bc723755c81ac8ba.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sora+Kingdom Hearts",
+  "descriptionCat": "https://kingdomhearts.fandom.com/ca/wiki/Sora",
+  "descriptionEsp": "https://kingdomhearts.fandom.com/es/wiki/Sora",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Sora+Kingdom Hearts",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sora-Kingdom Hearts.html",
+  "choosedBy": "",
+  "serie": "Kingdom Hearts",
+  "serieDetails": ""
+},
+{
+   
   "name": "Kairi",
   "nameDetails": "",
   "image": "https://i.pinimg.com/736x/51/c6/9b/51c69b5885edd3d78b56ec2c095b23bb.jpg",
@@ -1835,7 +1835,7 @@
   
   "name": "Ken",
   "nameDetails": "",
-  "image": "http://www.arcade-fighter.com/images/street-fighter-2/street-fighter-2-ryu-1.jpg",
+  "image": "http://img4.wikia.nocookie.net/__cb20100922022906/streetfighter/images/0/04/Ken-sf2-winpose.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ken+Street Fighter II",
   "descriptionCat": "",
   "descriptionEsp": "https://streetfighter.fandom.com/es/wiki/Ryu?so=search",
@@ -1849,7 +1849,7 @@
   
   "name": "Ryu",
   "nameDetails": "",
-  "image": "http://img4.wikia.nocookie.net/__cb20100922022906/streetfighter/images/0/04/Ken-sf2-winpose.jpg",
+  "image": "http://www.arcade-fighter.com/images/street-fighter-2/street-fighter-2-ryu-1.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ryu+Street Fighter II",
   "descriptionCat": "",
   "descriptionEsp": "https://streetfighter.fandom.com/es/wiki/Chun-Li",
@@ -1919,7 +1919,7 @@
   
   "name": "Tintín",
   "nameDetails": "",
-  "image": "http://en.tintin.com/images/tintin/actus/actus/004579/journal-tinin-combonne-annee-tintin-carte-de-voeux.jpg",
+  "image": "https://i.pinimg.com/736x/01/69/36/016936367b3c69935431340d83b1428a.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Tintín+Tintin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Tint%C3%ADn",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Tint%C3%ADn_(Las_aventuras_de_Tint%C3%ADn)",
@@ -1946,8 +1946,8 @@
 {
   
   "name": "Dupond",
-  "nameDetails": "https://2img.net/h/gallery.marvelscollectionscustoms.com/albums/Statues-Collectibles/Weta/Others/Dupont-dupond_06.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Dupond+Tintin",
+  "nameDetails": "Hernández (Bigoti llis / Bigote liso)",
+  "image": "https://2img.net/h/gallery.marvelscollectionscustoms.com/albums/Statues-Collectibles/Weta/Others/Dupont-dupond_06.jpg",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Dupond_i_Dupont",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Hern%C3%A1ndez_y_Fern%C3%A1ndez",
   "youtubeLink": "https://www.youtube.com/results?search_query=Dupond+Tintin",
@@ -2249,4 +2249,45 @@
   "choosedBy": "",
   "serie": "Sailor Moon",
   "serieDetails": ""
-}]
+},
+{
+  
+  "name": "Sam",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/564x/b8/6c/a9/b86ca9714b574adb6f330a810da8fbb0.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sam+LOTR",
+  "descriptionCat": "https://ca.wikipedia.org/wiki/Samseny_Gamg%C3%AD",
+  "descriptionEsp": "https://es.wikipedia.org/wiki/Samsagaz_Gamyi",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Sam+LOTR",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sam-LOTR.html",
+  "choosedBy": "6584a6f30acecb6e3dbf23ed",
+  "serie": "LOTR",
+  "serieDetails": "(El Señor de los Anillos)"
+},
+{
+  
+  "name": "Sakura",
+  "nameDetails": "Kinomoto",
+  "image": "https://i.pinimg.com/736x/67/74/d0/6774d02f5e2ed63845fbd8e00d7e939d.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Sakura+Cardcaptor",
+  "descriptionEsp": "https://sakuracardcaptors.fandom.com/es/wiki/Sakura_Kinomoto",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Sakura+Cardcaptor",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Sakura-Cardcaptor.html",
+  "choosedBy": "",
+  "serie": "Cardcaptor Sakura",
+  "serieDetails": "Sakura: la caçadora de cartes / Sakura Cazadora de cartas"
+},
+{
+  
+  "name": "Syaoran",
+  "nameDetails": "Li",
+  "image": "https://i.pinimg.com/736x/11/60/ea/1160ea99af6dabd609f5eebda7477bbd.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Syaoran+Li+Sakura+Cardcaptor",
+  "descriptionEsp": "https://sakuracardcaptors.fandom.com/es/wiki/Syaoran_Li",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Syaoran+Li+Sakura+Cardcaptor",
+  "aliExpressLink": "https://es.aliexpress.com/w/wholesale-cosplay-Syaoran-Li-Sakura-Cardcaptor.html",
+  "choosedBy": "",
+  "serie": "Cardcaptor Sakura",
+  "serieDetails": "Sakura: la caçadora de cartes / Sakura Cazadora de cartas"
+}
+]
