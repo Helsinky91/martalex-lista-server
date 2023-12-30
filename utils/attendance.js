@@ -1,6 +1,7 @@
 const attendance = [
     "Sí",
-    "No"
+    "No",
+    "No lo sé aún"
 ];
 
 module.exports = attendance;

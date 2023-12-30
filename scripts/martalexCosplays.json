@@ -421,7 +421,7 @@
   
   "name": "Alumno/a Slytherin",
   "nameDetails": "La alumna/o que prefieras de la casa Slytherin excepto Draco Malfoy",
-  "image": "https://i.pinimg.com/736x/c3/f2/34/c3f234a347905bae30b4be6eca724eb4.jpg.jpg",
+  "image": "https://i.pinimg.com/736x/c3/f2/34/c3f234a347905bae30b4be6eca724eb4.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Slytherin",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Hogwarts#Casa_Slytherin",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Slytherin",
@@ -1010,11 +1010,11 @@
   "name": "Mary Poppins",
   "nameDetails": "(de calle)",
   "image": "https://i.pinimg.com/564x/a4/35/14/a43514f9a1228b21529b826e9140af03.jpg",
-  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mary Poppins+Mary Poppins",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Mary+Poppins",
   "descriptionCat": "https://ca.wikipedia.org/wiki/Mary_Poppins_(personatge)",
   "descriptionEsp": "https://es.wikipedia.org/wiki/Mary_Poppins_(personaje)",
-  "youtubeLink": "https://www.youtube.com/results?search_query=Mary Poppins+Mary Poppins",
-  "aliExpressLink": "https://www.aliexpress.com/w/wholesale-cosplay-Mary-Poppins-Mary-Poppins.html",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Mary+Poppins",
+  "aliExpressLink": "https://www.aliexpress.com/w/wholesale-cosplay-Mary-Poppins.html",
   "choosedBy": "",
   "serie": "Mary Poppins",
   "serieDetails": ""
@@ -2169,7 +2169,7 @@
   
   "name": "Edward Elric",
   "nameDetails": "Alquimista de Acero",
-  "image": "https://static.tvtropes.org/pmwiki/pub/images/roy_mustang_57.png",
+  "image": "https://i.pinimg.com/736x/a7/72/97/a77297f890c0a3b5185ae7bc77d65f58.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Edward Elric+Fullmetal Alchemist: Brotherhood",
   "descriptionCat": "",
   "descriptionEsp": "https://fma.fandom.com/es/wiki/Edward_Elric",
@@ -2372,5 +2372,33 @@
   "choosedBy": "",
   "serie": "Cardcaptor Sakura",
   "serieDetails": "Sakura: la caçadora de cartes / Sakura Cazadora de cartas"
+},
+{
+  
+  "name": "Ahsoka Tano",
+  "nameDetails": "",
+  "image": "https://i.pinimg.com/736x/b6/02/50/b60250d4b2a34fc6b3ca880029613604.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Ahsoka+Tano",
+  "descriptionCat": "",
+  "descriptionEsp": "https://es.wikipedia.org/wiki/Ahsoka_Tano",
+  "youtubeLink": "https://www.youtube.com/results?search_query=ahsoka+tano",
+  "aliExpressLink": "https://www.aliexpress.com/w/wholesale-cosplay-ahsoka-tano.html",
+  "choosedBy": "658af7f66caf34f7d2d9ec90",
+  "serie": "Star Wars",
+  "serieDetails":""
+}, 
+{
+  
+  "name": "Suppaman",
+  "nameDetails": "Suprunaman (català) ¡¡NO ES SUPERMAN!!",
+  "image": "https://i.pinimg.com/736x/f8/d8/4b/f8d84b92d86bd991a5be413325fdfe99.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Suppaman+Slump",
+  "descriptionCat": "https://ca.wikipedia.org/wiki/Dr._Slump#Els_superherois",
+  "descriptionEsp": "https://drslump.fandom.com/wiki/Suppaman",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Suprunaman+Slump",
+  "aliExpressLink": "https://www.aliexpress.com/w/wholesale-cosplay-Suppaman-Slump.html",
+  "choosedBy": "",
+  "serie": "Dr Slump",
+  "serieDetails": "Tocará hacer manualidades"
 }
 ]
