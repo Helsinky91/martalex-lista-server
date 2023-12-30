@@ -86,6 +86,7 @@ router.post("/login", async (req, res, next) => {
       res.status(400).json({ errorMessage: "Credenciales no validas" }); // buena practica (privacidad de usuarios) misma respuesta que anterior clausula de guardia
       return;
     }
+        
 
     // info of the user stored in the Token
     const payload = {

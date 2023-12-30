@@ -1,5 +1,6 @@
 const { Schema, model } = require("mongoose");
 const attendance = require("../utils/attendance");
+const bcrypt = require("bcryptjs");
 
 const userSchema = new Schema(
   {
