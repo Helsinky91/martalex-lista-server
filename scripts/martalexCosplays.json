@@ -1371,7 +1371,7 @@
 {
  
   "name": "Red Ranger",
-  "nameDetails": "",
+  "nameDetails": "Casco opcional, se valorará positivamente",
   "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-jason.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Red Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1385,7 +1385,7 @@
 {
   
   "name": "Blue Ranger",
-  "nameDetails": "",
+  "nameDetails": "Casco opcional, se valorará positivamente",
   "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-billy.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Blue Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1399,7 +1399,7 @@
 {
   
   "name": "Black Ranger",
-  "nameDetails": "",
+  "nameDetails": "Casco opcional, se valorará positivamente",
   "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-zack.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Black Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1413,7 +1413,7 @@
 {
   
   "name": "Yellow Ranger",
-  "nameDetails": "",
+  "nameDetails": "Casco opcional, se valorará positivamente",
   "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-trini.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Yellow Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1427,7 +1427,7 @@
 {
   
   "name": "Pink Ranger",
-  "nameDetails": "",
+  "nameDetails": "Casco opcional, se valorará positivamente",
   "image": "http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-kimberly.jpg",
   "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Pink Ranger+Mighty Morphin Power Rangers",
   "descriptionCat": "",
@@ -1744,7 +1744,7 @@
   "aliExpressLink": "https://www.aliexpress.com/w/wholesale-cap-Wario.html",
   "choosedBy": "",
   "serie": "Super Mario",
-  "serieDetails": "Super Mario Bros. Por favor usad peto vaquero"
+  "serieDetails": "Super Mario Bros."
 },
 {
    
@@ -2400,5 +2400,19 @@
   "choosedBy": "",
   "serie": "Dr Slump",
   "serieDetails": "Tocará hacer manualidades"
+},
+{
+  
+  "name": "Padawan Anakin Skywalker",
+  "nameDetails": "Nen / niño",
+  "image": "https://i.pinimg.com/736x/b9/ec/d4/b9ecd436853f89fc9a3b15e6c7f603ee.jpg",
+  "cosplayImage": "https://www.google.com/search?tbm=isch&q=cosplay+Anakin+Skywalker+kid",
+  "descriptionCat": "",
+  "descriptionEsp": "https://starwars.fandom.com/es/wiki/Anakin_Skywalker",
+  "youtubeLink": "https://www.youtube.com/results?search_query=Anakin+Skywalker+Niño",
+  "aliExpressLink": "https://www.aliexpress.com/w/wholesale-cosplay-Anakin-kid.html",
+  "choosedBy": "6591468555c00833c4a30ec6",
+  "serie": "Star Wars",
+  "serieDetails": "La Guerra de las Galaxias"
 }
 ]
