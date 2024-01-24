@@ -3,6 +3,7 @@ const bcrypt = require("bcryptjs");
 const User = require("../models/User.model");
 const jwt = require("jsonwebtoken");
 const isLogged = require("../middlewares/auth");
+// const nodemailer = require('nodemailer');
 
 // Authentication routes
 
@@ -113,5 +114,81 @@ router.post("/login", async (req, res, next) => {
 router.get("/verify", isLogged, (req, res, next) => {
   res.status(200).json(req.payload);
 });
+
+// // POST "/api/auth/forgot-password"
+// router.post('/forgot-password', async (req, res, next) => {
+//   const { email } = req.body;
+
+//   try {
+//     const user = await User.findOne({ email });
+
+//     if (user) {
+//       const resetToken = jwt.sign({ userId: user._id }, process.env.RESET_TOKEN_SECRET, { expiresIn: '1h' });
+//       user.resetToken = resetToken;
+//       await user.save();
+
+//       // Use nodemailer to send the reset email
+//       const transporter = nodemailer.createTransport({
+//         service: 'gmail',
+//         auth: {
+//           user: process.env.EMAIL_USER, // Your email
+//           pass: process.env.EMAIL_PASSWORD, // Your email password
+//         },
+//       });
+
+//       const resetLink = `${process.env.CLIENT_URL}/reset-password/${resetToken}`;
+
+//       const mailOptions = {
+//         from: process.env.EMAIL_USER,
+//         to: user.email,
+//         subject: 'Password Reset',
+//         html: `
+//         <p>Hello ${user.name},</p>
+//         <p>Click <a href="${resetLink}">here</a> to reset your password.</p>
+//       `,
+//       };
+
+//       transporter.sendMail(mailOptions, (error, info) => {
+//         if (error) {
+//           console.log(error);
+//           return res.status(500).json('Error sending reset email.');
+//         } else {
+//           console.log('Email sent: ' + info.response);
+//           return res.status(200).json('Reset email sent.');
+//         }
+//       });
+//     } else {
+//       return res.status(400).json({ errorMessage: 'User not found.' });
+//     }
+//   } catch (error) {
+//     next(error);
+//   }
+// });
+
+// // POST "/api/auth/reset-password/:token"
+// router.post('/reset-password/:token', async (req, res, next) => {
+//   const { token } = req.params;
+//   const { password } = req.body;
+
+//   try {
+//     const decodedToken = jwt.verify(token, process.env.RESET_TOKEN_SECRET);
+//     const user = await User.findById(decodedToken.userId);
+
+//     if (user) {
+//       const salt = await bcrypt.genSalt(8);
+//       const hashPassword = await bcrypt.hash(password, salt);
+
+//       user.password = hashPassword;
+//       user.resetToken = undefined; // Clear the reset token
+//       await user.save();
+
+//       return res.status(200).json('Password reset successful.');
+//     }
+
+//     return res.status(400).json({ errorMessage: 'Invalid token.' });
+//   } catch (error) {
+//     next(error);
+//   }
+// });
 
 module.exports = router;
