@@ -58,6 +58,8 @@ router.post("/signup", async (req, res, next) => {
 
     // create new user and send OK message to FE
     await User.create(newUser);
+    // await User.create({ ...newUser, cosplayId: null });
+    
     res.status(201).json("Usuario registrado con éxito");
   } catch (error) {
     next(error);

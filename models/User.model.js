@@ -16,14 +16,13 @@ const userSchema = new Schema(
       type: String,
       required: [true, 'Introduce una contraseña.']
     },
-    cosplayId: [
-      {
+    cosplayId: {
         //feeds from Cosplay.model
         type: Schema.Types.ObjectId,
         ref: "Cosplay",
         default: null,
-      },
-    ],
+    },
+    
     role: {
       type: String,
       default: "user",

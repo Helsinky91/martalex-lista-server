@@ -17,7 +17,7 @@ router.get("/list", async (req, res, next) => {
 router.get("/my-profile", async (req, res, next) => {
     try {
       const response = await User.findById(req.payload._id).populate("cosplayId");
-  
+      // console.log("Cosplay details:", response.cosplayId);
       res.status(200).json(response);
     } catch (error) {
       next(error);
