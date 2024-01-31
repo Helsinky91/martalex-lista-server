@@ -25,6 +25,18 @@ router.get("/cosplay-list", async (req, res, next) => {
     }
 });
 
+//GET "api/cosplay/cosplay-list" --> shows a list of all cosplays
+router.get("/cosplay-list-choosed", async (req, res, next) => {
+  try {
+      // const response = await Cosplay.find() 
+      const response = await Cosplay.find({ choosedBy: { $ne: null } }).sort('serie');
+      // console.log("cosplaylist: ", response);
+      res.status(200).json(response)
+  } catch(err){
+      next(err)
+  }
+});
+
 
 // GET "/api/cosplay/:cosplayId/details" -> shows detailed cosplay
 router.get("/:cosplayId/details", async (req, res, next) => {
