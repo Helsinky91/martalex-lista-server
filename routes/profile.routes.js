@@ -1,6 +1,7 @@
 const router = require("express").Router();
 const User = require("../models/User.model");
 const attendance = require("../utils/attendance");
+const lunch = require("../utils/lunch");
 const bcrypt = require("bcryptjs");
 
 //GET "/api/profile/list" --> show filtered profile list
@@ -40,7 +41,7 @@ router.get("/:userId/details", async (req, res, next) => {
 //! PROFILE EDIT
 //PATCH "/api/profile/:userId/edit "  => edits and updates profile
 router.patch("/:userId/edit", async (req, res, next) => {
-  const { name, email, attendance, alergies } = req.body;
+  const { name, email, attendance, alergies, lunch } = req.body;
   const { _id } = req.payload;
   const { userId } = req.params;
 
@@ -58,6 +59,7 @@ router.patch("/:userId/edit", async (req, res, next) => {
     email,
     attendance, 
     alergies,
+    lunch
   };
   try {
     if (_id === userId) {
@@ -76,7 +78,11 @@ router.get("/attendance", async (req, res, next) => {
   res.status(200).json(attendance);
 });
 
-
+// GET "/api/profile/lunch" -> shows lunch in profile
+router.get("/lunch", async (req, res, next) => {
+  // console.log("lunch", lunch)
+  res.status(200).json(lunch);
+});
 
 //! PROFILE DELETE
 

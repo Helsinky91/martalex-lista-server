@@ -1,6 +1,8 @@
 const { Schema, model } = require("mongoose");
 const attendance = require("../utils/attendance");
 const bcrypt = require("bcryptjs");
+const lunch = require("../utils/lunch");
+
 
 const userSchema = new Schema(
   {
@@ -32,6 +34,12 @@ const userSchema = new Schema(
           type: String,
           enum: attendance,
       },
+    ],
+      lunch: [
+        {
+            type: String,
+            enum: lunch,
+        },
     ],
     alergies: String,
   },
