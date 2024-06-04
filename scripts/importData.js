@@ -1,6 +1,7 @@
 const fs = require('fs');
 const { MongoClient } = require('mongodb');
-require('dotenv').config();
+// require('dotenv').config();
+require('dotenv').config({ path: './.env' });
 
 const uri = process.env.MONGODB_URI;
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
